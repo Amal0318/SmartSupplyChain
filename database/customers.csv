@@ -1,0 +1,1001 @@
+customer_id,company_id,name,country,city,industry
+CUST00001,COMP002,Vanguard Energy Corp #1,Taiwan,Hsinchu,Consumer Goods
+CUST00002,COMP003,Matrix Mobility Group #2,Germany,Dortmund,Electronics
+CUST00003,COMP001,Horizon Solutions #3,United States,Chicago,Industrial
+CUST00004,COMP007,Integrated Technologies #4,Taiwan,Taipei,Automotive
+CUST00005,COMP004,Vertex Automation Ltd #5,United States,Chicago,Medical
+CUST00006,COMP001,Integrated Medical Corp #6,Canada,Hamilton,Automotive
+CUST00007,COMP010,Horizon Energy Corp #7,United States,Dallas,Consumer Goods
+CUST00008,COMP008,Global Logistics #8,United States,Detroit,Automotive
+CUST00009,COMP003,Kinetix Automation Ltd #9,China,Suzhou,Electronics
+CUST00010,COMP003,Matrix Industries #10,Germany,Dortmund,Electronics
+CUST00011,COMP008,Global Assembly Inc #11,India,Pune,Industrial
+CUST00012,COMP001,Integrated Logistics #12,Germany,Munich,Medical
+CUST00013,COMP001,Sterling Robotics #13,United States,Detroit,Industrial
+CUST00014,COMP008,Global Medical Corp #14,Japan,Tokyo,Industrial
+CUST00015,COMP003,Omni Assembly Inc #15,United Kingdom,Birmingham,Industrial
+CUST00016,COMP005,Future Motors #16,China,Shenzhen,Electronics
+CUST00017,COMP010,Matrix Logistics #17,Taiwan,Hsinchu,Industrial
+CUST00018,COMP002,Future Automation Ltd #18,United Kingdom,Birmingham,Industrial
+CUST00019,COMP010,Genesis Technologies #19,Germany,Munich,Medical
+CUST00020,COMP001,Vanguard Motors #20,Canada,Hamilton,Automotive
+CUST00021,COMP010,Core Robotics #21,Canada,Hamilton,Medical
+CUST00022,COMP003,Matrix Technologies #22,United States,Chicago,Industrial
+CUST00023,COMP002,Integrated Automation Ltd #23,Canada,Hamilton,Electronics
+CUST00024,COMP002,Vanguard Technologies #24,United States,Dallas,Automotive
+CUST00025,COMP010,Synergy Mobility Group #25,Japan,Tokyo,Medical
+CUST00026,COMP006,Genesis Technologies #26,Canada,Hamilton,Automotive
+CUST00027,COMP003,Paramount Technologies #27,Germany,Dortmund,Medical
+CUST00028,COMP001,Horizon Assembly Inc #28,Germany,Munich,Consumer Goods
+CUST00029,COMP010,Omni Industries #29,Japan,Tokyo,Consumer Goods
+CUST00030,COMP005,Future Medical Corp #30,South Korea,Incheon,Consumer Goods
+CUST00031,COMP010,Future Energy Corp #31,India,Bengaluru,Consumer Goods
+CUST00032,COMP006,Dynamic Medical Corp #32,Mexico,Querétaro,Consumer Goods
+CUST00033,COMP003,Titanium Medical Corp #33,United States,Dallas,Medical
+CUST00034,COMP005,Kinetix Medical Corp #34,Germany,Dortmund,Consumer Goods
+CUST00035,COMP005,Matrix Solutions #35,China,Shenzhen,Medical
+CUST00036,COMP006,Sterling Systems #36,Germany,Dortmund,Consumer Goods
+CUST00037,COMP009,Sterling Assembly Inc #37,Japan,Tokyo,Consumer Goods
+CUST00038,COMP004,Genesis Solutions #38,China,Ningbo,Medical
+CUST00039,COMP006,Matrix Motors #39,Japan,Tokyo,Automotive
+CUST00040,COMP001,Synergy Industries #40,Germany,Munich,Automotive
+CUST00041,COMP004,Global Automation Ltd #41,Canada,Hamilton,Consumer Goods
+CUST00042,COMP008,Paramount Engineering #42,Japan,Tokyo,Industrial
+CUST00043,COMP003,Synergy Technologies #43,Taiwan,Hsinchu,Consumer Goods
+CUST00044,COMP004,Sterling Technologies #44,United Kingdom,Birmingham,Industrial
+CUST00045,COMP008,Dynamic Robotics #45,Mexico,Monterrey,Consumer Goods
+CUST00046,COMP004,Genesis Energy Corp #46,Japan,Tokyo,Consumer Goods
+CUST00047,COMP003,Paramount Industries #47,China,Shenzhen,Industrial
+CUST00048,COMP004,Horizon Robotics #48,Japan,Tokyo,Industrial
+CUST00049,COMP004,Sterling Industries #49,United States,Dallas,Industrial
+CUST00050,COMP002,Kinetix Logistics #50,United Kingdom,Birmingham,Industrial
+CUST00051,COMP007,Genesis Motors #51,China,Ningbo,Consumer Goods
+CUST00052,COMP010,Titanium Mobility Group #52,Japan,Nagoya,Medical
+CUST00053,COMP002,Paramount Solutions #53,Taiwan,Taipei,Medical
+CUST00054,COMP002,Vertex Energy Corp #54,United States,Detroit,Automotive
+CUST00055,COMP001,Future Motors #55,Germany,Dortmund,Electronics
+CUST00056,COMP002,Titanium Logistics #56,Vietnam,Hai Phong,Industrial
+CUST00057,COMP006,Pinnacle Industries #57,Germany,Stuttgart,Medical
+CUST00058,COMP010,Beacon Logistics #58,Germany,Munich,Electronics
+CUST00059,COMP003,Core Medical Corp #59,Japan,Nagoya,Automotive
+CUST00060,COMP005,Titanium Industries #60,China,Ningbo,Electronics
+CUST00061,COMP003,Genesis Mobility Group #61,Germany,Munich,Automotive
+CUST00062,COMP005,Integrated Medical Corp #62,Japan,Tokyo,Medical
+CUST00063,COMP002,Sterling Automation Ltd #63,United States,Detroit,Industrial
+CUST00064,COMP006,Pinnacle Robotics #64,China,Suzhou,Medical
+CUST00065,COMP009,Matrix Solutions #65,Mexico,Querétaro,Consumer Goods
+CUST00066,COMP001,Synergy Automation Ltd #66,Germany,Stuttgart,Industrial
+CUST00067,COMP010,Pinnacle Logistics #67,Germany,Dortmund,Medical
+CUST00068,COMP009,Dynamic Industries #68,Japan,Tokyo,Electronics
+CUST00069,COMP007,Future Medical Corp #69,China,Shenzhen,Industrial
+CUST00070,COMP007,Horizon Logistics #70,Japan,Tokyo,Medical
+CUST00071,COMP010,Future Systems #71,United States,Detroit,Industrial
+CUST00072,COMP008,Synergy Robotics #72,South Korea,Incheon,Electronics
+CUST00073,COMP003,Future Mobility Group #73,Mexico,Querétaro,Automotive
+CUST00074,COMP006,Dynamic Medical Corp #74,Taiwan,Taipei,Electronics
+CUST00075,COMP008,Core Mobility Group #75,South Korea,Seoul,Medical
+CUST00076,COMP003,Vanguard Motors #76,Germany,Dortmund,Electronics
+CUST00077,COMP006,Genesis Technologies #77,United States,Chicago,Consumer Goods
+CUST00078,COMP004,Vertex Robotics #78,India,Pune,Consumer Goods
+CUST00079,COMP009,Genesis Energy Corp #79,India,Pune,Automotive
+CUST00080,COMP010,Paramount Motors #80,South Korea,Seoul,Consumer Goods
+CUST00081,COMP007,Kinetix Robotics #81,China,Suzhou,Consumer Goods
+CUST00082,COMP010,Future Automation Ltd #82,Mexico,Monterrey,Automotive
+CUST00083,COMP010,Pinnacle Automation Ltd #83,Vietnam,Hai Phong,Industrial
+CUST00084,COMP009,Matrix Technologies #84,China,Suzhou,Automotive
+CUST00085,COMP003,Global Automation Ltd #85,United States,Dallas,Consumer Goods
+CUST00086,COMP001,Horizon Industries #86,Taiwan,Hsinchu,Automotive
+CUST00087,COMP006,Sterling Systems #87,South Korea,Seoul,Industrial
+CUST00088,COMP009,Vanguard Logistics #88,South Korea,Incheon,Electronics
+CUST00089,COMP006,Future Logistics #89,Germany,Dortmund,Medical
+CUST00090,COMP001,Titanium Energy Corp #90,Vietnam,Hai Phong,Consumer Goods
+CUST00091,COMP007,Genesis Assembly Inc #91,Mexico,Monterrey,Medical
+CUST00092,COMP009,Paramount Energy Corp #92,Japan,Nagoya,Electronics
+CUST00093,COMP002,Synergy Assembly Inc #93,Germany,Dortmund,Automotive
+CUST00094,COMP001,Vanguard Medical Corp #94,United States,Dallas,Industrial
+CUST00095,COMP010,Integrated Solutions #95,Japan,Tokyo,Consumer Goods
+CUST00096,COMP007,Paramount Automation Ltd #96,Taiwan,Hsinchu,Electronics
+CUST00097,COMP002,Vertex Medical Corp #97,China,Shenzhen,Medical
+CUST00098,COMP008,Synergy Automation Ltd #98,United States,Detroit,Electronics
+CUST00099,COMP001,Titanium Solutions #99,Taiwan,Taipei,Consumer Goods
+CUST00100,COMP007,Horizon Energy Corp #100,India,Bengaluru,Consumer Goods
+CUST00101,COMP010,Sterling Energy Corp #101,China,Suzhou,Consumer Goods
+CUST00102,COMP008,Future Medical Corp #102,Mexico,Monterrey,Industrial
+CUST00103,COMP004,Integrated Industries #103,Japan,Tokyo,Automotive
+CUST00104,COMP005,Integrated Engineering #104,Taiwan,Taipei,Electronics
+CUST00105,COMP002,Omni Medical Corp #105,Canada,Hamilton,Consumer Goods
+CUST00106,COMP007,Horizon Assembly Inc #106,Germany,Munich,Automotive
+CUST00107,COMP010,Beacon Systems #107,Mexico,Querétaro,Automotive
+CUST00108,COMP005,Horizon Automation Ltd #108,Vietnam,Hai Phong,Consumer Goods
+CUST00109,COMP010,Pinnacle Medical Corp #109,Germany,Stuttgart,Industrial
+CUST00110,COMP002,Dynamic Motors #110,China,Shenzhen,Automotive
+CUST00111,COMP009,Paramount Motors #111,United Kingdom,Birmingham,Automotive
+CUST00112,COMP004,Integrated Solutions #112,India,Bengaluru,Industrial
+CUST00113,COMP003,Vanguard Logistics #113,China,Ningbo,Industrial
+CUST00114,COMP002,Omni Industries #114,China,Ningbo,Industrial
+CUST00115,COMP008,Titanium Medical Corp #115,Canada,Hamilton,Industrial
+CUST00116,COMP004,Omni Technologies #116,Taiwan,Taipei,Electronics
+CUST00117,COMP010,Vanguard Motors #117,Taiwan,Hsinchu,Electronics
+CUST00118,COMP005,Vertex Energy Corp #118,United States,Dallas,Medical
+CUST00119,COMP005,Integrated Industries #119,China,Shenzhen,Electronics
+CUST00120,COMP010,Vanguard Energy Corp #120,India,Bengaluru,Industrial
+CUST00121,COMP003,Matrix Engineering #121,China,Ningbo,Consumer Goods
+CUST00122,COMP003,Vertex Robotics #122,Germany,Stuttgart,Consumer Goods
+CUST00123,COMP009,Pinnacle Industries #123,Germany,Munich,Industrial
+CUST00124,COMP007,Vanguard Systems #124,Japan,Nagoya,Electronics
+CUST00125,COMP009,Horizon Robotics #125,South Korea,Seoul,Automotive
+CUST00126,COMP003,Vertex Robotics #126,South Korea,Incheon,Consumer Goods
+CUST00127,COMP001,Genesis Automation Ltd #127,Japan,Osaka,Industrial
+CUST00128,COMP002,Sterling Robotics #128,United States,Dallas,Automotive
+CUST00129,COMP008,Sterling Automation Ltd #129,Japan,Tokyo,Electronics
+CUST00130,COMP002,Matrix Motors #130,Germany,Munich,Industrial
+CUST00131,COMP004,Global Solutions #131,India,Pune,Medical
+CUST00132,COMP001,Core Assembly Inc #132,United States,Detroit,Industrial
+CUST00133,COMP004,Matrix Engineering #133,South Korea,Seoul,Industrial
+CUST00134,COMP009,Matrix Industries #134,China,Shenzhen,Electronics
+CUST00135,COMP008,Synergy Solutions #135,Germany,Munich,Automotive
+CUST00136,COMP002,Sterling Logistics #136,Japan,Osaka,Electronics
+CUST00137,COMP001,Vertex Logistics #137,Germany,Dortmund,Industrial
+CUST00138,COMP007,Genesis Technologies #138,South Korea,Incheon,Industrial
+CUST00139,COMP002,Future Logistics #139,United States,Dallas,Automotive
+CUST00140,COMP006,Synergy Robotics #140,China,Ningbo,Consumer Goods
+CUST00141,COMP004,Dynamic Energy Corp #141,Canada,Hamilton,Industrial
+CUST00142,COMP003,Titanium Assembly Inc #142,India,Bengaluru,Medical
+CUST00143,COMP004,Synergy Medical Corp #143,Taiwan,Hsinchu,Electronics
+CUST00144,COMP001,Vertex Logistics #144,India,Bengaluru,Industrial
+CUST00145,COMP010,Pinnacle Logistics #145,United States,Dallas,Industrial
+CUST00146,COMP007,Sterling Logistics #146,Canada,Hamilton,Medical
+CUST00147,COMP007,Kinetix Systems #147,Japan,Tokyo,Medical
+CUST00148,COMP005,Genesis Mobility Group #148,Japan,Tokyo,Industrial
+CUST00149,COMP002,Dynamic Medical Corp #149,Germany,Dortmund,Electronics
+CUST00150,COMP009,Titanium Logistics #150,Germany,Munich,Industrial
+CUST00151,COMP004,Dynamic Energy Corp #151,United Kingdom,Birmingham,Industrial
+CUST00152,COMP003,Matrix Engineering #152,India,Pune,Consumer Goods
+CUST00153,COMP004,Integrated Robotics #153,China,Ningbo,Industrial
+CUST00154,COMP008,Matrix Medical Corp #154,Mexico,Querétaro,Electronics
+CUST00155,COMP004,Paramount Industries #155,Germany,Stuttgart,Consumer Goods
+CUST00156,COMP008,Vertex Automation Ltd #156,China,Suzhou,Industrial
+CUST00157,COMP001,Genesis Technologies #157,United States,Dallas,Electronics
+CUST00158,COMP004,Synergy Medical Corp #158,Japan,Nagoya,Automotive
+CUST00159,COMP003,Dynamic Technologies #159,South Korea,Incheon,Consumer Goods
+CUST00160,COMP004,Vertex Solutions #160,Taiwan,Taipei,Automotive
+CUST00161,COMP002,Vanguard Logistics #161,Germany,Munich,Medical
+CUST00162,COMP001,Future Automation Ltd #162,Japan,Nagoya,Consumer Goods
+CUST00163,COMP002,Integrated Systems #163,United States,Chicago,Industrial
+CUST00164,COMP003,Vanguard Robotics #164,India,Bengaluru,Medical
+CUST00165,COMP004,Genesis Technologies #165,Germany,Dortmund,Medical
+CUST00166,COMP003,Synergy Industries #166,China,Suzhou,Industrial
+CUST00167,COMP006,Dynamic Logistics #167,China,Suzhou,Medical
+CUST00168,COMP007,Beacon Automation Ltd #168,South Korea,Seoul,Consumer Goods
+CUST00169,COMP007,Kinetix Automation Ltd #169,Taiwan,Hsinchu,Medical
+CUST00170,COMP008,Omni Assembly Inc #170,India,Pune,Consumer Goods
+CUST00171,COMP007,Future Motors #171,United States,Dallas,Electronics
+CUST00172,COMP004,Global Industries #172,South Korea,Seoul,Consumer Goods
+CUST00173,COMP009,Core Industries #173,Germany,Stuttgart,Medical
+CUST00174,COMP001,Omni Automation Ltd #174,China,Ningbo,Medical
+CUST00175,COMP002,Vanguard Systems #175,Taiwan,Hsinchu,Consumer Goods
+CUST00176,COMP005,Pinnacle Energy Corp #176,China,Shenzhen,Automotive
+CUST00177,COMP005,Matrix Medical Corp #177,China,Ningbo,Automotive
+CUST00178,COMP007,Horizon Engineering #178,Japan,Tokyo,Consumer Goods
+CUST00179,COMP005,Sterling Mobility Group #179,Germany,Munich,Medical
+CUST00180,COMP001,Genesis Energy Corp #180,Germany,Dortmund,Electronics
+CUST00181,COMP009,Matrix Robotics #181,Taiwan,Taipei,Medical
+CUST00182,COMP002,Dynamic Engineering #182,United States,Dallas,Automotive
+CUST00183,COMP010,Vanguard Assembly Inc #183,United States,Dallas,Industrial
+CUST00184,COMP010,Omni Robotics #184,Japan,Tokyo,Electronics
+CUST00185,COMP006,Matrix Energy Corp #185,India,Pune,Automotive
+CUST00186,COMP009,Beacon Medical Corp #186,United States,Detroit,Medical
+CUST00187,COMP010,Vertex Logistics #187,United States,Detroit,Electronics
+CUST00188,COMP005,Kinetix Mobility Group #188,United States,Dallas,Automotive
+CUST00189,COMP003,Horizon Industries #189,South Korea,Seoul,Electronics
+CUST00190,COMP001,Titanium Logistics #190,Mexico,Monterrey,Industrial
+CUST00191,COMP010,Sterling Mobility Group #191,Germany,Stuttgart,Electronics
+CUST00192,COMP010,Titanium Motors #192,South Korea,Incheon,Electronics
+CUST00193,COMP003,Future Motors #193,Japan,Tokyo,Electronics
+CUST00194,COMP006,Core Industries #194,Japan,Osaka,Electronics
+CUST00195,COMP010,Core Robotics #195,United Kingdom,Birmingham,Industrial
+CUST00196,COMP002,Pinnacle Mobility Group #196,Germany,Stuttgart,Electronics
+CUST00197,COMP010,Kinetix Engineering #197,South Korea,Seoul,Electronics
+CUST00198,COMP009,Matrix Robotics #198,Germany,Dortmund,Medical
+CUST00199,COMP009,Matrix Assembly Inc #199,South Korea,Incheon,Consumer Goods
+CUST00200,COMP003,Global Assembly Inc #200,United States,Chicago,Consumer Goods
+CUST00201,COMP005,Omni Industries #201,Vietnam,Hai Phong,Medical
+CUST00202,COMP007,Sterling Systems #202,Taiwan,Hsinchu,Industrial
+CUST00203,COMP005,Beacon Assembly Inc #203,Taiwan,Taipei,Medical
+CUST00204,COMP005,Future Motors #204,China,Suzhou,Electronics
+CUST00205,COMP001,Vanguard Energy Corp #205,United States,Dallas,Industrial
+CUST00206,COMP009,Dynamic Engineering #206,Vietnam,Hai Phong,Consumer Goods
+CUST00207,COMP002,Beacon Mobility Group #207,South Korea,Incheon,Electronics
+CUST00208,COMP001,Omni Robotics #208,Mexico,Monterrey,Automotive
+CUST00209,COMP002,Future Motors #209,United States,Chicago,Consumer Goods
+CUST00210,COMP005,Global Automation Ltd #210,Japan,Tokyo,Consumer Goods
+CUST00211,COMP002,Dynamic Systems #211,Vietnam,Hai Phong,Consumer Goods
+CUST00212,COMP002,Synergy Mobility Group #212,India,Bengaluru,Medical
+CUST00213,COMP010,Genesis Logistics #213,Japan,Tokyo,Automotive
+CUST00214,COMP006,Vertex Solutions #214,Japan,Nagoya,Consumer Goods
+CUST00215,COMP006,Horizon Technologies #215,Taiwan,Hsinchu,Electronics
+CUST00216,COMP003,Matrix Systems #216,Vietnam,Hai Phong,Electronics
+CUST00217,COMP010,Core Automation Ltd #217,United States,Chicago,Electronics
+CUST00218,COMP009,Integrated Automation Ltd #218,Japan,Nagoya,Automotive
+CUST00219,COMP007,Synergy Automation Ltd #219,China,Suzhou,Consumer Goods
+CUST00220,COMP004,Genesis Engineering #220,Germany,Dortmund,Industrial
+CUST00221,COMP001,Beacon Mobility Group #221,Mexico,Monterrey,Industrial
+CUST00222,COMP002,Genesis Logistics #222,Germany,Munich,Electronics
+CUST00223,COMP009,Pinnacle Logistics #223,South Korea,Seoul,Automotive
+CUST00224,COMP006,Kinetix Mobility Group #224,United Kingdom,Birmingham,Industrial
+CUST00225,COMP002,Horizon Logistics #225,South Korea,Seoul,Medical
+CUST00226,COMP003,Omni Assembly Inc #226,Taiwan,Taipei,Consumer Goods
+CUST00227,COMP005,Pinnacle Mobility Group #227,Taiwan,Taipei,Electronics
+CUST00228,COMP006,Core Logistics #228,Mexico,Monterrey,Industrial
+CUST00229,COMP002,Genesis Logistics #229,Taiwan,Taipei,Medical
+CUST00230,COMP009,Synergy Engineering #230,Germany,Stuttgart,Medical
+CUST00231,COMP005,Integrated Mobility Group #231,China,Ningbo,Medical
+CUST00232,COMP009,Integrated Engineering #232,South Korea,Seoul,Automotive
+CUST00233,COMP004,Omni Automation Ltd #233,India,Pune,Automotive
+CUST00234,COMP002,Horizon Industries #234,India,Pune,Automotive
+CUST00235,COMP006,Beacon Engineering #235,United Kingdom,Birmingham,Industrial
+CUST00236,COMP002,Pinnacle Energy Corp #236,China,Shenzhen,Consumer Goods
+CUST00237,COMP002,Pinnacle Motors #237,Germany,Stuttgart,Industrial
+CUST00238,COMP007,Horizon Industries #238,Japan,Tokyo,Industrial
+CUST00239,COMP004,Sterling Automation Ltd #239,Vietnam,Hai Phong,Medical
+CUST00240,COMP009,Omni Energy Corp #240,Vietnam,Hai Phong,Automotive
+CUST00241,COMP002,Integrated Motors #241,Mexico,Querétaro,Automotive
+CUST00242,COMP003,Global Medical Corp #242,China,Ningbo,Electronics
+CUST00243,COMP002,Vanguard Solutions #243,China,Suzhou,Medical
+CUST00244,COMP001,Titanium Solutions #244,Germany,Stuttgart,Medical
+CUST00245,COMP009,Omni Solutions #245,Mexico,Monterrey,Consumer Goods
+CUST00246,COMP009,Integrated Solutions #246,Mexico,Monterrey,Medical
+CUST00247,COMP002,Core Systems #247,India,Pune,Electronics
+CUST00248,COMP009,Global Technologies #248,South Korea,Seoul,Medical
+CUST00249,COMP001,Paramount Systems #249,United States,Chicago,Industrial
+CUST00250,COMP008,Global Motors #250,India,Bengaluru,Consumer Goods
+CUST00251,COMP001,Omni Energy Corp #251,Germany,Dortmund,Automotive
+CUST00252,COMP004,Pinnacle Mobility Group #252,United States,Dallas,Industrial
+CUST00253,COMP009,Omni Technologies #253,India,Bengaluru,Automotive
+CUST00254,COMP005,Global Motors #254,Japan,Nagoya,Industrial
+CUST00255,COMP005,Vanguard Robotics #255,South Korea,Incheon,Consumer Goods
+CUST00256,COMP010,Dynamic Industries #256,Taiwan,Taipei,Consumer Goods
+CUST00257,COMP007,Global Technologies #257,Vietnam,Hai Phong,Automotive
+CUST00258,COMP001,Synergy Robotics #258,South Korea,Incheon,Medical
+CUST00259,COMP009,Global Logistics #259,Japan,Nagoya,Industrial
+CUST00260,COMP001,Horizon Technologies #260,Germany,Stuttgart,Consumer Goods
+CUST00261,COMP006,Synergy Automation Ltd #261,United States,Dallas,Electronics
+CUST00262,COMP001,Future Motors #262,South Korea,Incheon,Medical
+CUST00263,COMP007,Synergy Solutions #263,United States,Chicago,Medical
+CUST00264,COMP002,Vanguard Automation Ltd #264,China,Suzhou,Consumer Goods
+CUST00265,COMP005,Genesis Technologies #265,Canada,Hamilton,Consumer Goods
+CUST00266,COMP003,Vertex Robotics #266,Mexico,Monterrey,Medical
+CUST00267,COMP003,Beacon Technologies #267,Mexico,Monterrey,Automotive
+CUST00268,COMP009,Pinnacle Energy Corp #268,China,Suzhou,Consumer Goods
+CUST00269,COMP007,Titanium Logistics #269,Japan,Nagoya,Industrial
+CUST00270,COMP005,Horizon Medical Corp #270,China,Shenzhen,Medical
+CUST00271,COMP003,Dynamic Solutions #271,South Korea,Incheon,Electronics
+CUST00272,COMP002,Global Engineering #272,Vietnam,Hai Phong,Medical
+CUST00273,COMP004,Vanguard Industries #273,United States,Chicago,Consumer Goods
+CUST00274,COMP002,Genesis Motors #274,United Kingdom,Birmingham,Industrial
+CUST00275,COMP010,Dynamic Systems #275,South Korea,Seoul,Electronics
+CUST00276,COMP004,Synergy Robotics #276,United States,Chicago,Automotive
+CUST00277,COMP008,Horizon Mobility Group #277,China,Suzhou,Medical
+CUST00278,COMP009,Vanguard Logistics #278,South Korea,Incheon,Electronics
+CUST00279,COMP002,Core Engineering #279,China,Shenzhen,Consumer Goods
+CUST00280,COMP010,Future Medical Corp #280,Mexico,Monterrey,Industrial
+CUST00281,COMP001,Dynamic Solutions #281,United States,Detroit,Industrial
+CUST00282,COMP008,Synergy Engineering #282,Germany,Dortmund,Medical
+CUST00283,COMP006,Vanguard Medical Corp #283,China,Suzhou,Industrial
+CUST00284,COMP002,Genesis Medical Corp #284,China,Suzhou,Medical
+CUST00285,COMP007,Matrix Systems #285,Taiwan,Taipei,Medical
+CUST00286,COMP002,Synergy Systems #286,Germany,Munich,Automotive
+CUST00287,COMP008,Vertex Systems #287,Mexico,Monterrey,Automotive
+CUST00288,COMP006,Beacon Engineering #288,Vietnam,Hai Phong,Electronics
+CUST00289,COMP006,Genesis Solutions #289,India,Bengaluru,Consumer Goods
+CUST00290,COMP003,Genesis Industries #290,China,Shenzhen,Industrial
+CUST00291,COMP003,Paramount Solutions #291,China,Ningbo,Automotive
+CUST00292,COMP006,Vertex Mobility Group #292,Canada,Hamilton,Electronics
+CUST00293,COMP004,Paramount Robotics #293,India,Bengaluru,Consumer Goods
+CUST00294,COMP005,Core Motors #294,Mexico,Monterrey,Medical
+CUST00295,COMP002,Beacon Assembly Inc #295,United Kingdom,Birmingham,Consumer Goods
+CUST00296,COMP004,Vertex Technologies #296,Japan,Tokyo,Industrial
+CUST00297,COMP003,Omni Robotics #297,India,Pune,Medical
+CUST00298,COMP009,Paramount Logistics #298,Germany,Munich,Automotive
+CUST00299,COMP001,Synergy Mobility Group #299,Japan,Osaka,Electronics
+CUST00300,COMP010,Core Robotics #300,Japan,Tokyo,Automotive
+CUST00301,COMP010,Vertex Technologies #301,United States,Chicago,Automotive
+CUST00302,COMP004,Kinetix Assembly Inc #302,China,Shenzhen,Consumer Goods
+CUST00303,COMP005,Vertex Systems #303,Taiwan,Hsinchu,Automotive
+CUST00304,COMP006,Genesis Medical Corp #304,United States,Chicago,Electronics
+CUST00305,COMP006,Matrix Energy Corp #305,South Korea,Seoul,Automotive
+CUST00306,COMP010,Horizon Robotics #306,Taiwan,Taipei,Consumer Goods
+CUST00307,COMP001,Titanium Automation Ltd #307,South Korea,Incheon,Consumer Goods
+CUST00308,COMP010,Vertex Technologies #308,China,Suzhou,Electronics
+CUST00309,COMP007,Synergy Engineering #309,India,Pune,Consumer Goods
+CUST00310,COMP002,Beacon Engineering #310,Japan,Tokyo,Consumer Goods
+CUST00311,COMP007,Integrated Energy Corp #311,Mexico,Querétaro,Electronics
+CUST00312,COMP007,Titanium Assembly Inc #312,Vietnam,Hai Phong,Medical
+CUST00313,COMP002,Genesis Mobility Group #313,Japan,Tokyo,Medical
+CUST00314,COMP008,Kinetix Systems #314,South Korea,Incheon,Medical
+CUST00315,COMP006,Omni Robotics #315,China,Ningbo,Consumer Goods
+CUST00316,COMP005,Omni Mobility Group #316,China,Suzhou,Consumer Goods
+CUST00317,COMP002,Paramount Technologies #317,Canada,Hamilton,Consumer Goods
+CUST00318,COMP010,Matrix Energy Corp #318,Mexico,Querétaro,Automotive
+CUST00319,COMP005,Pinnacle Mobility Group #319,Germany,Munich,Industrial
+CUST00320,COMP006,Omni Engineering #320,South Korea,Incheon,Medical
+CUST00321,COMP001,Paramount Motors #321,Mexico,Querétaro,Medical
+CUST00322,COMP006,Sterling Motors #322,Taiwan,Taipei,Medical
+CUST00323,COMP003,Integrated Technologies #323,Mexico,Querétaro,Automotive
+CUST00324,COMP009,Core Energy Corp #324,United Kingdom,Birmingham,Medical
+CUST00325,COMP008,Beacon Robotics #325,Canada,Hamilton,Industrial
+CUST00326,COMP001,Pinnacle Logistics #326,Vietnam,Hai Phong,Automotive
+CUST00327,COMP010,Future Energy Corp #327,South Korea,Incheon,Automotive
+CUST00328,COMP008,Integrated Mobility Group #328,United States,Dallas,Industrial
+CUST00329,COMP003,Vertex Systems #329,Japan,Osaka,Industrial
+CUST00330,COMP010,Core Technologies #330,Japan,Tokyo,Consumer Goods
+CUST00331,COMP003,Core Automation Ltd #331,United States,Dallas,Industrial
+CUST00332,COMP001,Dynamic Assembly Inc #332,Germany,Dortmund,Industrial
+CUST00333,COMP008,Core Assembly Inc #333,United Kingdom,Birmingham,Electronics
+CUST00334,COMP006,Matrix Engineering #334,Germany,Dortmund,Electronics
+CUST00335,COMP007,Omni Solutions #335,Japan,Osaka,Electronics
+CUST00336,COMP001,Beacon Automation Ltd #336,Vietnam,Hai Phong,Automotive
+CUST00337,COMP004,Dynamic Medical Corp #337,Taiwan,Hsinchu,Industrial
+CUST00338,COMP007,Beacon Technologies #338,Japan,Osaka,Electronics
+CUST00339,COMP002,Horizon Robotics #339,Taiwan,Taipei,Industrial
+CUST00340,COMP010,Vanguard Energy Corp #340,China,Ningbo,Automotive
+CUST00341,COMP008,Matrix Engineering #341,Canada,Hamilton,Electronics
+CUST00342,COMP001,Kinetix Robotics #342,United States,Chicago,Consumer Goods
+CUST00343,COMP010,Synergy Mobility Group #343,Vietnam,Hai Phong,Consumer Goods
+CUST00344,COMP009,Integrated Assembly Inc #344,South Korea,Incheon,Medical
+CUST00345,COMP002,Matrix Motors #345,India,Pune,Consumer Goods
+CUST00346,COMP006,Pinnacle Systems #346,United States,Detroit,Electronics
+CUST00347,COMP006,Vanguard Mobility Group #347,Germany,Dortmund,Industrial
+CUST00348,COMP008,Vanguard Industries #348,United States,Dallas,Automotive
+CUST00349,COMP010,Horizon Industries #349,Mexico,Monterrey,Automotive
+CUST00350,COMP006,Matrix Engineering #350,Vietnam,Hai Phong,Industrial
+CUST00351,COMP006,Vertex Motors #351,United States,Detroit,Industrial
+CUST00352,COMP005,Integrated Systems #352,China,Shenzhen,Medical
+CUST00353,COMP007,Global Motors #353,China,Shenzhen,Medical
+CUST00354,COMP003,Kinetix Medical Corp #354,China,Ningbo,Electronics
+CUST00355,COMP003,Vertex Industries #355,Germany,Stuttgart,Medical
+CUST00356,COMP006,Core Robotics #356,Germany,Dortmund,Consumer Goods
+CUST00357,COMP004,Vertex Medical Corp #357,Japan,Tokyo,Medical
+CUST00358,COMP001,Pinnacle Mobility Group #358,Japan,Osaka,Medical
+CUST00359,COMP007,Vertex Automation Ltd #359,South Korea,Incheon,Electronics
+CUST00360,COMP001,Future Industries #360,Japan,Nagoya,Consumer Goods
+CUST00361,COMP010,Future Engineering #361,Germany,Munich,Electronics
+CUST00362,COMP008,Kinetix Medical Corp #362,China,Ningbo,Medical
+CUST00363,COMP008,Integrated Assembly Inc #363,China,Suzhou,Consumer Goods
+CUST00364,COMP006,Future Industries #364,Japan,Nagoya,Automotive
+CUST00365,COMP005,Beacon Technologies #365,Germany,Munich,Medical
+CUST00366,COMP009,Beacon Energy Corp #366,United States,Detroit,Medical
+CUST00367,COMP008,Paramount Solutions #367,India,Bengaluru,Industrial
+CUST00368,COMP007,Paramount Energy Corp #368,Taiwan,Taipei,Medical
+CUST00369,COMP009,Paramount Assembly Inc #369,Taiwan,Hsinchu,Industrial
+CUST00370,COMP002,Omni Technologies #370,Germany,Munich,Medical
+CUST00371,COMP010,Global Technologies #371,China,Suzhou,Consumer Goods
+CUST00372,COMP003,Core Medical Corp #372,United States,Dallas,Medical
+CUST00373,COMP006,Titanium Industries #373,United Kingdom,Birmingham,Consumer Goods
+CUST00374,COMP008,Future Medical Corp #374,Germany,Stuttgart,Automotive
+CUST00375,COMP009,Matrix Solutions #375,Mexico,Monterrey,Medical
+CUST00376,COMP004,Integrated Automation Ltd #376,United States,Dallas,Industrial
+CUST00377,COMP005,Core Solutions #377,United Kingdom,Birmingham,Medical
+CUST00378,COMP008,Dynamic Solutions #378,China,Ningbo,Electronics
+CUST00379,COMP010,Matrix Automation Ltd #379,United States,Dallas,Automotive
+CUST00380,COMP004,Synergy Energy Corp #380,Mexico,Querétaro,Medical
+CUST00381,COMP003,Kinetix Solutions #381,Vietnam,Hai Phong,Medical
+CUST00382,COMP001,Genesis Automation Ltd #382,Mexico,Querétaro,Consumer Goods
+CUST00383,COMP009,Vanguard Solutions #383,United Kingdom,Birmingham,Industrial
+CUST00384,COMP003,Vertex Medical Corp #384,United Kingdom,Birmingham,Automotive
+CUST00385,COMP006,Kinetix Energy Corp #385,Taiwan,Hsinchu,Medical
+CUST00386,COMP003,Titanium Systems #386,China,Suzhou,Electronics
+CUST00387,COMP005,Genesis Medical Corp #387,United States,Dallas,Consumer Goods
+CUST00388,COMP007,Sterling Engineering #388,Germany,Stuttgart,Industrial
+CUST00389,COMP004,Synergy Industries #389,United States,Dallas,Industrial
+CUST00390,COMP002,Global Mobility Group #390,Mexico,Monterrey,Electronics
+CUST00391,COMP010,Beacon Automation Ltd #391,South Korea,Seoul,Consumer Goods
+CUST00392,COMP001,Core Mobility Group #392,China,Ningbo,Consumer Goods
+CUST00393,COMP007,Sterling Engineering #393,Germany,Stuttgart,Industrial
+CUST00394,COMP007,Genesis Engineering #394,United States,Detroit,Automotive
+CUST00395,COMP008,Vertex Engineering #395,China,Shenzhen,Consumer Goods
+CUST00396,COMP004,Genesis Solutions #396,United States,Detroit,Automotive
+CUST00397,COMP006,Paramount Mobility Group #397,Germany,Dortmund,Electronics
+CUST00398,COMP007,Dynamic Systems #398,Germany,Munich,Industrial
+CUST00399,COMP007,Paramount Medical Corp #399,Germany,Munich,Consumer Goods
+CUST00400,COMP006,Kinetix Energy Corp #400,South Korea,Incheon,Electronics
+CUST00401,COMP006,Pinnacle Assembly Inc #401,Mexico,Querétaro,Electronics
+CUST00402,COMP003,Vertex Industries #402,Germany,Dortmund,Medical
+CUST00403,COMP002,Synergy Logistics #403,India,Bengaluru,Automotive
+CUST00404,COMP009,Horizon Motors #404,Germany,Munich,Automotive
+CUST00405,COMP005,Beacon Motors #405,United States,Detroit,Consumer Goods
+CUST00406,COMP005,Matrix Automation Ltd #406,Taiwan,Taipei,Industrial
+CUST00407,COMP006,Matrix Automation Ltd #407,South Korea,Seoul,Electronics
+CUST00408,COMP005,Future Industries #408,Mexico,Querétaro,Electronics
+CUST00409,COMP004,Synergy Logistics #409,Germany,Munich,Automotive
+CUST00410,COMP009,Global Assembly Inc #410,China,Suzhou,Consumer Goods
+CUST00411,COMP005,Beacon Logistics #411,China,Shenzhen,Consumer Goods
+CUST00412,COMP009,Vertex Energy Corp #412,Japan,Nagoya,Medical
+CUST00413,COMP010,Beacon Engineering #413,South Korea,Seoul,Electronics
+CUST00414,COMP003,Matrix Medical Corp #414,Mexico,Monterrey,Industrial
+CUST00415,COMP006,Genesis Industries #415,South Korea,Seoul,Automotive
+CUST00416,COMP004,Matrix Motors #416,India,Bengaluru,Electronics
+CUST00417,COMP005,Dynamic Assembly Inc #417,India,Pune,Consumer Goods
+CUST00418,COMP005,Paramount Robotics #418,Mexico,Querétaro,Consumer Goods
+CUST00419,COMP001,Horizon Assembly Inc #419,China,Suzhou,Automotive
+CUST00420,COMP010,Dynamic Solutions #420,Mexico,Monterrey,Electronics
+CUST00421,COMP001,Genesis Industries #421,China,Ningbo,Industrial
+CUST00422,COMP007,Sterling Energy Corp #422,Mexico,Querétaro,Consumer Goods
+CUST00423,COMP010,Core Solutions #423,Germany,Dortmund,Industrial
+CUST00424,COMP005,Dynamic Assembly Inc #424,Japan,Osaka,Automotive
+CUST00425,COMP003,Beacon Automation Ltd #425,Japan,Nagoya,Electronics
+CUST00426,COMP001,Omni Solutions #426,Taiwan,Hsinchu,Consumer Goods
+CUST00427,COMP004,Horizon Robotics #427,Mexico,Monterrey,Automotive
+CUST00428,COMP002,Titanium Industries #428,United States,Detroit,Electronics
+CUST00429,COMP002,Sterling Automation Ltd #429,Germany,Stuttgart,Electronics
+CUST00430,COMP009,Paramount Systems #430,Japan,Tokyo,Medical
+CUST00431,COMP009,Integrated Motors #431,Taiwan,Taipei,Industrial
+CUST00432,COMP002,Vanguard Automation Ltd #432,Taiwan,Taipei,Electronics
+CUST00433,COMP004,Kinetix Motors #433,United States,Chicago,Consumer Goods
+CUST00434,COMP008,Kinetix Solutions #434,China,Shenzhen,Automotive
+CUST00435,COMP010,Horizon Engineering #435,United States,Detroit,Electronics
+CUST00436,COMP003,Omni Mobility Group #436,China,Ningbo,Automotive
+CUST00437,COMP008,Global Technologies #437,South Korea,Incheon,Consumer Goods
+CUST00438,COMP005,Global Industries #438,China,Ningbo,Medical
+CUST00439,COMP005,Core Technologies #439,China,Ningbo,Industrial
+CUST00440,COMP004,Synergy Engineering #440,United States,Detroit,Electronics
+CUST00441,COMP003,Future Logistics #441,Mexico,Querétaro,Industrial
+CUST00442,COMP005,Global Solutions #442,Canada,Hamilton,Medical
+CUST00443,COMP008,Global Motors #443,China,Shenzhen,Consumer Goods
+CUST00444,COMP006,Core Industries #444,United States,Dallas,Consumer Goods
+CUST00445,COMP007,Integrated Engineering #445,Taiwan,Taipei,Consumer Goods
+CUST00446,COMP010,Genesis Energy Corp #446,Germany,Munich,Electronics
+CUST00447,COMP005,Future Systems #447,Germany,Munich,Automotive
+CUST00448,COMP003,Paramount Medical Corp #448,Mexico,Monterrey,Consumer Goods
+CUST00449,COMP010,Beacon Logistics #449,India,Pune,Electronics
+CUST00450,COMP004,Vertex Solutions #450,Mexico,Querétaro,Automotive
+CUST00451,COMP005,Pinnacle Industries #451,Taiwan,Taipei,Medical
+CUST00452,COMP001,Genesis Solutions #452,United States,Detroit,Medical
+CUST00453,COMP008,Omni Technologies #453,Japan,Nagoya,Industrial
+CUST00454,COMP005,Kinetix Medical Corp #454,India,Bengaluru,Consumer Goods
+CUST00455,COMP008,Synergy Systems #455,Japan,Osaka,Automotive
+CUST00456,COMP006,Genesis Engineering #456,Mexico,Monterrey,Medical
+CUST00457,COMP004,Pinnacle Automation Ltd #457,United States,Detroit,Electronics
+CUST00458,COMP005,Omni Assembly Inc #458,Taiwan,Hsinchu,Industrial
+CUST00459,COMP010,Genesis Logistics #459,Vietnam,Hai Phong,Industrial
+CUST00460,COMP007,Beacon Technologies #460,China,Shenzhen,Consumer Goods
+CUST00461,COMP004,Pinnacle Engineering #461,United States,Chicago,Consumer Goods
+CUST00462,COMP001,Future Medical Corp #462,Mexico,Querétaro,Industrial
+CUST00463,COMP009,Kinetix Industries #463,China,Suzhou,Electronics
+CUST00464,COMP003,Kinetix Medical Corp #464,United States,Detroit,Electronics
+CUST00465,COMP008,Synergy Robotics #465,Germany,Munich,Medical
+CUST00466,COMP005,Omni Systems #466,United States,Chicago,Electronics
+CUST00467,COMP004,Core Engineering #467,South Korea,Incheon,Electronics
+CUST00468,COMP009,Core Motors #468,South Korea,Seoul,Electronics
+CUST00469,COMP007,Genesis Mobility Group #469,Canada,Hamilton,Industrial
+CUST00470,COMP010,Kinetix Motors #470,China,Suzhou,Consumer Goods
+CUST00471,COMP006,Vertex Mobility Group #471,United Kingdom,Birmingham,Automotive
+CUST00472,COMP010,Vanguard Automation Ltd #472,India,Bengaluru,Industrial
+CUST00473,COMP004,Global Medical Corp #473,China,Ningbo,Electronics
+CUST00474,COMP004,Sterling Engineering #474,United States,Chicago,Electronics
+CUST00475,COMP002,Synergy Systems #475,Mexico,Monterrey,Medical
+CUST00476,COMP001,Horizon Motors #476,United States,Detroit,Consumer Goods
+CUST00477,COMP003,Omni Industries #477,United States,Detroit,Industrial
+CUST00478,COMP004,Titanium Mobility Group #478,Germany,Dortmund,Automotive
+CUST00479,COMP009,Global Robotics #479,Canada,Hamilton,Industrial
+CUST00480,COMP007,Horizon Energy Corp #480,Vietnam,Hai Phong,Consumer Goods
+CUST00481,COMP001,Dynamic Assembly Inc #481,China,Suzhou,Automotive
+CUST00482,COMP008,Pinnacle Motors #482,United States,Dallas,Industrial
+CUST00483,COMP008,Core Industries #483,Japan,Nagoya,Medical
+CUST00484,COMP006,Pinnacle Engineering #484,Germany,Stuttgart,Medical
+CUST00485,COMP004,Horizon Engineering #485,China,Suzhou,Medical
+CUST00486,COMP006,Horizon Mobility Group #486,China,Suzhou,Consumer Goods
+CUST00487,COMP009,Beacon Medical Corp #487,South Korea,Incheon,Medical
+CUST00488,COMP001,Omni Solutions #488,Japan,Tokyo,Automotive
+CUST00489,COMP007,Vertex Logistics #489,China,Shenzhen,Automotive
+CUST00490,COMP003,Dynamic Medical Corp #490,United States,Chicago,Medical
+CUST00491,COMP004,Titanium Mobility Group #491,South Korea,Incheon,Automotive
+CUST00492,COMP006,Titanium Technologies #492,United States,Dallas,Medical
+CUST00493,COMP010,Integrated Engineering #493,India,Bengaluru,Industrial
+CUST00494,COMP007,Dynamic Assembly Inc #494,Mexico,Querétaro,Medical
+CUST00495,COMP007,Matrix Assembly Inc #495,India,Bengaluru,Industrial
+CUST00496,COMP007,Pinnacle Technologies #496,Germany,Dortmund,Consumer Goods
+CUST00497,COMP005,Vertex Motors #497,United States,Chicago,Automotive
+CUST00498,COMP002,Future Engineering #498,South Korea,Incheon,Industrial
+CUST00499,COMP004,Matrix Energy Corp #499,Japan,Nagoya,Medical
+CUST00500,COMP002,Vertex Engineering #500,South Korea,Seoul,Electronics
+CUST00501,COMP009,Omni Logistics #501,Germany,Dortmund,Electronics
+CUST00502,COMP006,Core Mobility Group #502,Japan,Osaka,Electronics
+CUST00503,COMP008,Genesis Engineering #503,Germany,Dortmund,Electronics
+CUST00504,COMP004,Global Technologies #504,Taiwan,Taipei,Automotive
+CUST00505,COMP002,Sterling Technologies #505,Germany,Stuttgart,Medical
+CUST00506,COMP008,Vanguard Medical Corp #506,South Korea,Incheon,Consumer Goods
+CUST00507,COMP007,Genesis Systems #507,United States,Detroit,Automotive
+CUST00508,COMP001,Vertex Medical Corp #508,India,Pune,Automotive
+CUST00509,COMP002,Beacon Assembly Inc #509,Germany,Dortmund,Industrial
+CUST00510,COMP008,Global Robotics #510,Japan,Tokyo,Electronics
+CUST00511,COMP005,Beacon Automation Ltd #511,Vietnam,Hai Phong,Automotive
+CUST00512,COMP005,Horizon Industries #512,China,Suzhou,Consumer Goods
+CUST00513,COMP007,Global Systems #513,Taiwan,Taipei,Industrial
+CUST00514,COMP006,Beacon Motors #514,India,Bengaluru,Automotive
+CUST00515,COMP009,Kinetix Medical Corp #515,South Korea,Seoul,Industrial
+CUST00516,COMP008,Sterling Systems #516,Canada,Hamilton,Electronics
+CUST00517,COMP002,Beacon Engineering #517,Japan,Osaka,Consumer Goods
+CUST00518,COMP003,Future Solutions #518,United States,Detroit,Consumer Goods
+CUST00519,COMP005,Integrated Technologies #519,China,Suzhou,Consumer Goods
+CUST00520,COMP006,Vertex Systems #520,United Kingdom,Birmingham,Electronics
+CUST00521,COMP009,Synergy Logistics #521,Mexico,Monterrey,Industrial
+CUST00522,COMP005,Pinnacle Energy Corp #522,Taiwan,Hsinchu,Electronics
+CUST00523,COMP010,Global Industries #523,China,Suzhou,Industrial
+CUST00524,COMP006,Matrix Motors #524,United States,Dallas,Medical
+CUST00525,COMP008,Global Logistics #525,South Korea,Seoul,Automotive
+CUST00526,COMP002,Horizon Assembly Inc #526,China,Shenzhen,Electronics
+CUST00527,COMP007,Horizon Medical Corp #527,Taiwan,Hsinchu,Consumer Goods
+CUST00528,COMP008,Synergy Industries #528,South Korea,Seoul,Consumer Goods
+CUST00529,COMP004,Synergy Automation Ltd #529,United States,Detroit,Consumer Goods
+CUST00530,COMP003,Vanguard Industries #530,India,Bengaluru,Medical
+CUST00531,COMP008,Sterling Assembly Inc #531,India,Pune,Consumer Goods
+CUST00532,COMP010,Vertex Assembly Inc #532,Canada,Hamilton,Automotive
+CUST00533,COMP005,Pinnacle Energy Corp #533,China,Ningbo,Consumer Goods
+CUST00534,COMP007,Vertex Robotics #534,China,Shenzhen,Medical
+CUST00535,COMP007,Pinnacle Systems #535,Mexico,Querétaro,Electronics
+CUST00536,COMP009,Titanium Systems #536,Canada,Hamilton,Automotive
+CUST00537,COMP008,Sterling Energy Corp #537,China,Ningbo,Industrial
+CUST00538,COMP004,Paramount Energy Corp #538,Japan,Osaka,Automotive
+CUST00539,COMP010,Kinetix Medical Corp #539,Japan,Osaka,Electronics
+CUST00540,COMP007,Future Systems #540,Japan,Nagoya,Consumer Goods
+CUST00541,COMP003,Beacon Automation Ltd #541,Vietnam,Hai Phong,Medical
+CUST00542,COMP010,Pinnacle Energy Corp #542,United Kingdom,Birmingham,Medical
+CUST00543,COMP002,Kinetix Medical Corp #543,India,Bengaluru,Medical
+CUST00544,COMP009,Genesis Logistics #544,Japan,Nagoya,Industrial
+CUST00545,COMP005,Vanguard Technologies #545,United Kingdom,Birmingham,Electronics
+CUST00546,COMP003,Vertex Assembly Inc #546,Vietnam,Hai Phong,Consumer Goods
+CUST00547,COMP003,Sterling Engineering #547,Taiwan,Taipei,Consumer Goods
+CUST00548,COMP004,Horizon Motors #548,Japan,Tokyo,Industrial
+CUST00549,COMP009,Horizon Automation Ltd #549,Canada,Hamilton,Consumer Goods
+CUST00550,COMP008,Paramount Assembly Inc #550,India,Bengaluru,Electronics
+CUST00551,COMP005,Dynamic Robotics #551,Germany,Stuttgart,Automotive
+CUST00552,COMP009,Beacon Medical Corp #552,Japan,Osaka,Industrial
+CUST00553,COMP009,Core Logistics #553,United States,Dallas,Consumer Goods
+CUST00554,COMP003,Matrix Mobility Group #554,Germany,Dortmund,Medical
+CUST00555,COMP008,Beacon Engineering #555,Japan,Tokyo,Industrial
+CUST00556,COMP001,Kinetix Robotics #556,United Kingdom,Birmingham,Electronics
+CUST00557,COMP003,Beacon Systems #557,Mexico,Querétaro,Automotive
+CUST00558,COMP007,Kinetix Systems #558,South Korea,Seoul,Medical
+CUST00559,COMP002,Pinnacle Motors #559,Japan,Osaka,Industrial
+CUST00560,COMP001,Omni Motors #560,South Korea,Seoul,Electronics
+CUST00561,COMP007,Synergy Solutions #561,Taiwan,Hsinchu,Industrial
+CUST00562,COMP008,Integrated Systems #562,South Korea,Seoul,Consumer Goods
+CUST00563,COMP002,Beacon Technologies #563,India,Bengaluru,Consumer Goods
+CUST00564,COMP001,Vertex Engineering #564,United States,Detroit,Automotive
+CUST00565,COMP001,Synergy Logistics #565,Japan,Osaka,Automotive
+CUST00566,COMP003,Pinnacle Technologies #566,Mexico,Querétaro,Consumer Goods
+CUST00567,COMP001,Integrated Motors #567,United States,Dallas,Automotive
+CUST00568,COMP004,Omni Systems #568,China,Shenzhen,Consumer Goods
+CUST00569,COMP002,Titanium Solutions #569,South Korea,Seoul,Electronics
+CUST00570,COMP005,Dynamic Logistics #570,India,Bengaluru,Medical
+CUST00571,COMP007,Dynamic Medical Corp #571,China,Suzhou,Automotive
+CUST00572,COMP009,Dynamic Assembly Inc #572,Mexico,Querétaro,Consumer Goods
+CUST00573,COMP002,Paramount Mobility Group #573,India,Bengaluru,Consumer Goods
+CUST00574,COMP004,Future Assembly Inc #574,Taiwan,Taipei,Consumer Goods
+CUST00575,COMP008,Dynamic Solutions #575,United States,Detroit,Consumer Goods
+CUST00576,COMP002,Dynamic Energy Corp #576,South Korea,Incheon,Automotive
+CUST00577,COMP010,Omni Mobility Group #577,United Kingdom,Birmingham,Consumer Goods
+CUST00578,COMP001,Beacon Engineering #578,Japan,Osaka,Electronics
+CUST00579,COMP009,Titanium Mobility Group #579,China,Suzhou,Industrial
+CUST00580,COMP007,Pinnacle Robotics #580,South Korea,Seoul,Consumer Goods
+CUST00581,COMP010,Vanguard Energy Corp #581,United States,Dallas,Electronics
+CUST00582,COMP007,Vanguard Assembly Inc #582,United Kingdom,Birmingham,Consumer Goods
+CUST00583,COMP010,Pinnacle Assembly Inc #583,Vietnam,Hai Phong,Consumer Goods
+CUST00584,COMP003,Matrix Solutions #584,United Kingdom,Birmingham,Automotive
+CUST00585,COMP009,Genesis Mobility Group #585,China,Suzhou,Industrial
+CUST00586,COMP008,Dynamic Energy Corp #586,China,Ningbo,Industrial
+CUST00587,COMP010,Matrix Solutions #587,United Kingdom,Birmingham,Industrial
+CUST00588,COMP010,Matrix Solutions #588,China,Ningbo,Medical
+CUST00589,COMP004,Beacon Motors #589,United States,Detroit,Medical
+CUST00590,COMP006,Horizon Mobility Group #590,China,Ningbo,Consumer Goods
+CUST00591,COMP003,Future Automation Ltd #591,Japan,Osaka,Medical
+CUST00592,COMP004,Global Robotics #592,Japan,Osaka,Industrial
+CUST00593,COMP008,Dynamic Mobility Group #593,United States,Dallas,Electronics
+CUST00594,COMP007,Kinetix Energy Corp #594,Mexico,Monterrey,Medical
+CUST00595,COMP006,Matrix Motors #595,South Korea,Incheon,Electronics
+CUST00596,COMP009,Paramount Technologies #596,China,Suzhou,Automotive
+CUST00597,COMP006,Titanium Systems #597,South Korea,Incheon,Electronics
+CUST00598,COMP003,Synergy Logistics #598,Japan,Tokyo,Automotive
+CUST00599,COMP006,Beacon Engineering #599,South Korea,Incheon,Consumer Goods
+CUST00600,COMP010,Omni Engineering #600,India,Bengaluru,Consumer Goods
+CUST00601,COMP009,Vertex Industries #601,Canada,Hamilton,Electronics
+CUST00602,COMP010,Paramount Medical Corp #602,South Korea,Seoul,Medical
+CUST00603,COMP010,Future Motors #603,Mexico,Monterrey,Consumer Goods
+CUST00604,COMP009,Future Solutions #604,United Kingdom,Birmingham,Automotive
+CUST00605,COMP008,Synergy Mobility Group #605,United Kingdom,Birmingham,Consumer Goods
+CUST00606,COMP001,Genesis Industries #606,Japan,Tokyo,Automotive
+CUST00607,COMP006,Dynamic Logistics #607,Taiwan,Hsinchu,Industrial
+CUST00608,COMP010,Synergy Robotics #608,South Korea,Seoul,Industrial
+CUST00609,COMP008,Vertex Automation Ltd #609,Mexico,Querétaro,Industrial
+CUST00610,COMP009,Vanguard Solutions #610,Germany,Stuttgart,Automotive
+CUST00611,COMP008,Omni Technologies #611,India,Pune,Consumer Goods
+CUST00612,COMP006,Vanguard Logistics #612,Japan,Nagoya,Electronics
+CUST00613,COMP007,Paramount Engineering #613,United States,Detroit,Consumer Goods
+CUST00614,COMP005,Pinnacle Assembly Inc #614,Germany,Munich,Medical
+CUST00615,COMP008,Omni Technologies #615,United States,Chicago,Consumer Goods
+CUST00616,COMP010,Vanguard Industries #616,Mexico,Querétaro,Medical
+CUST00617,COMP001,Synergy Mobility Group #617,Japan,Osaka,Electronics
+CUST00618,COMP002,Paramount Assembly Inc #618,China,Ningbo,Medical
+CUST00619,COMP001,Synergy Automation Ltd #619,India,Pune,Automotive
+CUST00620,COMP009,Matrix Systems #620,South Korea,Incheon,Automotive
+CUST00621,COMP001,Integrated Engineering #621,Taiwan,Taipei,Consumer Goods
+CUST00622,COMP010,Omni Mobility Group #622,United States,Detroit,Medical
+CUST00623,COMP002,Beacon Robotics #623,Mexico,Querétaro,Automotive
+CUST00624,COMP003,Omni Systems #624,Japan,Osaka,Automotive
+CUST00625,COMP009,Vanguard Motors #625,Taiwan,Taipei,Automotive
+CUST00626,COMP004,Dynamic Assembly Inc #626,Germany,Stuttgart,Automotive
+CUST00627,COMP008,Global Technologies #627,United States,Dallas,Medical
+CUST00628,COMP005,Synergy Technologies #628,China,Ningbo,Industrial
+CUST00629,COMP006,Dynamic Medical Corp #629,United States,Dallas,Electronics
+CUST00630,COMP004,Future Medical Corp #630,China,Shenzhen,Consumer Goods
+CUST00631,COMP002,Genesis Engineering #631,Taiwan,Hsinchu,Consumer Goods
+CUST00632,COMP002,Paramount Automation Ltd #632,China,Ningbo,Medical
+CUST00633,COMP004,Vertex Mobility Group #633,Japan,Tokyo,Medical
+CUST00634,COMP004,Global Energy Corp #634,China,Ningbo,Industrial
+CUST00635,COMP009,Vanguard Medical Corp #635,United States,Chicago,Automotive
+CUST00636,COMP008,Dynamic Technologies #636,Japan,Tokyo,Industrial
+CUST00637,COMP003,Sterling Automation Ltd #637,United States,Chicago,Automotive
+CUST00638,COMP010,Synergy Assembly Inc #638,China,Shenzhen,Electronics
+CUST00639,COMP007,Integrated Solutions #639,United States,Chicago,Medical
+CUST00640,COMP007,Genesis Engineering #640,India,Bengaluru,Medical
+CUST00641,COMP008,Beacon Automation Ltd #641,Germany,Stuttgart,Electronics
+CUST00642,COMP005,Synergy Technologies #642,Taiwan,Taipei,Electronics
+CUST00643,COMP005,Integrated Energy Corp #643,China,Ningbo,Industrial
+CUST00644,COMP010,Synergy Automation Ltd #644,Taiwan,Taipei,Electronics
+CUST00645,COMP006,Vertex Robotics #645,United States,Chicago,Industrial
+CUST00646,COMP004,Paramount Mobility Group #646,United States,Dallas,Consumer Goods
+CUST00647,COMP005,Horizon Assembly Inc #647,Japan,Tokyo,Consumer Goods
+CUST00648,COMP003,Integrated Automation Ltd #648,China,Suzhou,Industrial
+CUST00649,COMP002,Future Industries #649,South Korea,Incheon,Automotive
+CUST00650,COMP001,Horizon Technologies #650,India,Pune,Consumer Goods
+CUST00651,COMP002,Omni Assembly Inc #651,Japan,Nagoya,Electronics
+CUST00652,COMP009,Integrated Engineering #652,South Korea,Seoul,Automotive
+CUST00653,COMP010,Core Systems #653,Vietnam,Hai Phong,Electronics
+CUST00654,COMP001,Paramount Motors #654,India,Pune,Automotive
+CUST00655,COMP007,Future Logistics #655,Vietnam,Hai Phong,Electronics
+CUST00656,COMP004,Vanguard Industries #656,Taiwan,Taipei,Consumer Goods
+CUST00657,COMP004,Titanium Energy Corp #657,China,Ningbo,Industrial
+CUST00658,COMP008,Pinnacle Systems #658,Canada,Hamilton,Consumer Goods
+CUST00659,COMP003,Dynamic Robotics #659,Germany,Stuttgart,Electronics
+CUST00660,COMP009,Future Motors #660,United States,Chicago,Medical
+CUST00661,COMP003,Global Engineering #661,Mexico,Querétaro,Automotive
+CUST00662,COMP009,Future Automation Ltd #662,India,Pune,Electronics
+CUST00663,COMP005,Paramount Systems #663,China,Ningbo,Medical
+CUST00664,COMP010,Synergy Solutions #664,South Korea,Incheon,Medical
+CUST00665,COMP002,Genesis Motors #665,South Korea,Seoul,Consumer Goods
+CUST00666,COMP002,Pinnacle Solutions #666,Germany,Munich,Consumer Goods
+CUST00667,COMP003,Global Logistics #667,Canada,Hamilton,Industrial
+CUST00668,COMP010,Pinnacle Logistics #668,Japan,Tokyo,Industrial
+CUST00669,COMP004,Synergy Medical Corp #669,Japan,Osaka,Industrial
+CUST00670,COMP007,Omni Mobility Group #670,Mexico,Querétaro,Medical
+CUST00671,COMP003,Dynamic Medical Corp #671,Canada,Hamilton,Automotive
+CUST00672,COMP005,Vertex Robotics #672,Japan,Nagoya,Automotive
+CUST00673,COMP005,Matrix Automation Ltd #673,South Korea,Seoul,Automotive
+CUST00674,COMP007,Core Industries #674,Mexico,Querétaro,Consumer Goods
+CUST00675,COMP009,Omni Systems #675,Mexico,Querétaro,Electronics
+CUST00676,COMP005,Dynamic Assembly Inc #676,Mexico,Querétaro,Electronics
+CUST00677,COMP002,Vanguard Logistics #677,China,Suzhou,Electronics
+CUST00678,COMP010,Kinetix Motors #678,Japan,Tokyo,Consumer Goods
+CUST00679,COMP007,Dynamic Automation Ltd #679,Canada,Hamilton,Medical
+CUST00680,COMP004,Titanium Mobility Group #680,Germany,Dortmund,Electronics
+CUST00681,COMP003,Titanium Technologies #681,Germany,Dortmund,Medical
+CUST00682,COMP004,Matrix Energy Corp #682,Japan,Tokyo,Medical
+CUST00683,COMP009,Synergy Industries #683,Taiwan,Taipei,Industrial
+CUST00684,COMP002,Dynamic Medical Corp #684,Germany,Munich,Consumer Goods
+CUST00685,COMP008,Core Technologies #685,South Korea,Seoul,Industrial
+CUST00686,COMP010,Vertex Technologies #686,Japan,Nagoya,Medical
+CUST00687,COMP005,Synergy Solutions #687,China,Ningbo,Industrial
+CUST00688,COMP004,Integrated Technologies #688,United States,Dallas,Automotive
+CUST00689,COMP006,Matrix Robotics #689,Taiwan,Hsinchu,Automotive
+CUST00690,COMP007,Sterling Industries #690,China,Shenzhen,Electronics
+CUST00691,COMP003,Global Automation Ltd #691,Germany,Munich,Industrial
+CUST00692,COMP005,Integrated Automation Ltd #692,Mexico,Querétaro,Electronics
+CUST00693,COMP005,Paramount Systems #693,Vietnam,Hai Phong,Consumer Goods
+CUST00694,COMP006,Sterling Motors #694,Mexico,Querétaro,Consumer Goods
+CUST00695,COMP008,Kinetix Medical Corp #695,Japan,Nagoya,Medical
+CUST00696,COMP003,Core Engineering #696,Germany,Stuttgart,Industrial
+CUST00697,COMP008,Vertex Assembly Inc #697,China,Ningbo,Electronics
+CUST00698,COMP006,Vertex Systems #698,Canada,Hamilton,Medical
+CUST00699,COMP003,Omni Motors #699,Taiwan,Hsinchu,Electronics
+CUST00700,COMP008,Matrix Systems #700,Japan,Nagoya,Consumer Goods
+CUST00701,COMP005,Core Solutions #701,Germany,Dortmund,Industrial
+CUST00702,COMP009,Integrated Robotics #702,Germany,Munich,Medical
+CUST00703,COMP002,Paramount Industries #703,Mexico,Monterrey,Electronics
+CUST00704,COMP001,Sterling Engineering #704,China,Ningbo,Consumer Goods
+CUST00705,COMP003,Horizon Energy Corp #705,United States,Detroit,Consumer Goods
+CUST00706,COMP003,Vertex Mobility Group #706,South Korea,Seoul,Consumer Goods
+CUST00707,COMP001,Beacon Energy Corp #707,Germany,Dortmund,Electronics
+CUST00708,COMP001,Titanium Medical Corp #708,Germany,Dortmund,Automotive
+CUST00709,COMP001,Integrated Engineering #709,Germany,Munich,Electronics
+CUST00710,COMP006,Integrated Solutions #710,Vietnam,Hai Phong,Automotive
+CUST00711,COMP004,Horizon Mobility Group #711,Germany,Dortmund,Medical
+CUST00712,COMP010,Titanium Robotics #712,Vietnam,Hai Phong,Automotive
+CUST00713,COMP003,Sterling Systems #713,United States,Chicago,Automotive
+CUST00714,COMP003,Omni Solutions #714,India,Pune,Consumer Goods
+CUST00715,COMP003,Paramount Solutions #715,Vietnam,Hai Phong,Consumer Goods
+CUST00716,COMP009,Beacon Logistics #716,Taiwan,Taipei,Consumer Goods
+CUST00717,COMP005,Future Industries #717,China,Ningbo,Automotive
+CUST00718,COMP004,Omni Industries #718,Taiwan,Hsinchu,Automotive
+CUST00719,COMP009,Vertex Automation Ltd #719,South Korea,Incheon,Medical
+CUST00720,COMP001,Vertex Logistics #720,South Korea,Seoul,Consumer Goods
+CUST00721,COMP002,Kinetix Systems #721,China,Shenzhen,Automotive
+CUST00722,COMP007,Core Medical Corp #722,Germany,Munich,Industrial
+CUST00723,COMP007,Vertex Energy Corp #723,Mexico,Monterrey,Consumer Goods
+CUST00724,COMP010,Paramount Robotics #724,Germany,Dortmund,Automotive
+CUST00725,COMP009,Sterling Systems #725,China,Shenzhen,Automotive
+CUST00726,COMP003,Titanium Automation Ltd #726,Mexico,Monterrey,Medical
+CUST00727,COMP007,Horizon Motors #727,Vietnam,Hai Phong,Consumer Goods
+CUST00728,COMP010,Matrix Mobility Group #728,Taiwan,Hsinchu,Consumer Goods
+CUST00729,COMP005,Pinnacle Systems #729,South Korea,Incheon,Automotive
+CUST00730,COMP006,Horizon Logistics #730,China,Suzhou,Industrial
+CUST00731,COMP009,Kinetix Logistics #731,South Korea,Seoul,Electronics
+CUST00732,COMP006,Vertex Engineering #732,Germany,Stuttgart,Electronics
+CUST00733,COMP006,Genesis Energy Corp #733,Japan,Nagoya,Consumer Goods
+CUST00734,COMP004,Integrated Engineering #734,Japan,Osaka,Electronics
+CUST00735,COMP010,Matrix Energy Corp #735,United Kingdom,Birmingham,Medical
+CUST00736,COMP008,Synergy Medical Corp #736,Taiwan,Hsinchu,Electronics
+CUST00737,COMP010,Sterling Automation Ltd #737,India,Pune,Consumer Goods
+CUST00738,COMP006,Kinetix Systems #738,Vietnam,Hai Phong,Industrial
+CUST00739,COMP008,Kinetix Motors #739,United States,Detroit,Medical
+CUST00740,COMP002,Synergy Mobility Group #740,India,Bengaluru,Automotive
+CUST00741,COMP004,Paramount Logistics #741,Japan,Osaka,Medical
+CUST00742,COMP004,Paramount Robotics #742,Germany,Munich,Automotive
+CUST00743,COMP008,Omni Logistics #743,Japan,Nagoya,Automotive
+CUST00744,COMP006,Synergy Medical Corp #744,Taiwan,Taipei,Consumer Goods
+CUST00745,COMP009,Genesis Assembly Inc #745,Japan,Osaka,Automotive
+CUST00746,COMP005,Global Energy Corp #746,South Korea,Incheon,Automotive
+CUST00747,COMP007,Pinnacle Systems #747,Taiwan,Taipei,Industrial
+CUST00748,COMP003,Pinnacle Systems #748,Canada,Hamilton,Consumer Goods
+CUST00749,COMP009,Sterling Robotics #749,Japan,Nagoya,Consumer Goods
+CUST00750,COMP002,Titanium Mobility Group #750,Canada,Hamilton,Medical
+CUST00751,COMP006,Sterling Systems #751,South Korea,Seoul,Electronics
+CUST00752,COMP004,Vanguard Automation Ltd #752,China,Suzhou,Medical
+CUST00753,COMP005,Core Systems #753,Japan,Nagoya,Electronics
+CUST00754,COMP002,Future Engineering #754,South Korea,Incheon,Industrial
+CUST00755,COMP001,Vertex Mobility Group #755,United States,Dallas,Consumer Goods
+CUST00756,COMP009,Horizon Systems #756,Germany,Stuttgart,Automotive
+CUST00757,COMP007,Global Energy Corp #757,Germany,Dortmund,Electronics
+CUST00758,COMP005,Integrated Logistics #758,Germany,Dortmund,Medical
+CUST00759,COMP006,Integrated Robotics #759,Taiwan,Taipei,Automotive
+CUST00760,COMP009,Beacon Systems #760,India,Bengaluru,Consumer Goods
+CUST00761,COMP008,Beacon Automation Ltd #761,United Kingdom,Birmingham,Industrial
+CUST00762,COMP006,Synergy Solutions #762,India,Pune,Automotive
+CUST00763,COMP006,Dynamic Logistics #763,China,Suzhou,Consumer Goods
+CUST00764,COMP009,Horizon Automation Ltd #764,Japan,Tokyo,Industrial
+CUST00765,COMP006,Integrated Energy Corp #765,India,Pune,Electronics
+CUST00766,COMP001,Dynamic Robotics #766,Japan,Nagoya,Automotive
+CUST00767,COMP009,Horizon Robotics #767,United States,Dallas,Automotive
+CUST00768,COMP001,Genesis Robotics #768,Taiwan,Taipei,Medical
+CUST00769,COMP010,Core Systems #769,India,Pune,Consumer Goods
+CUST00770,COMP004,Future Logistics #770,United States,Dallas,Medical
+CUST00771,COMP008,Omni Assembly Inc #771,China,Suzhou,Industrial
+CUST00772,COMP001,Global Mobility Group #772,United States,Detroit,Medical
+CUST00773,COMP006,Vertex Medical Corp #773,Vietnam,Hai Phong,Consumer Goods
+CUST00774,COMP010,Vertex Automation Ltd #774,China,Ningbo,Industrial
+CUST00775,COMP001,Beacon Systems #775,United States,Detroit,Medical
+CUST00776,COMP008,Pinnacle Motors #776,Vietnam,Hai Phong,Automotive
+CUST00777,COMP008,Vanguard Medical Corp #777,Germany,Stuttgart,Automotive
+CUST00778,COMP006,Omni Motors #778,Mexico,Querétaro,Medical
+CUST00779,COMP006,Future Mobility Group #779,South Korea,Seoul,Industrial
+CUST00780,COMP010,Integrated Medical Corp #780,Canada,Hamilton,Industrial
+CUST00781,COMP009,Future Robotics #781,Japan,Tokyo,Automotive
+CUST00782,COMP009,Paramount Mobility Group #782,China,Ningbo,Medical
+CUST00783,COMP006,Integrated Robotics #783,Japan,Osaka,Industrial
+CUST00784,COMP008,Beacon Systems #784,Germany,Munich,Medical
+CUST00785,COMP009,Core Energy Corp #785,Germany,Stuttgart,Automotive
+CUST00786,COMP008,Core Assembly Inc #786,Canada,Hamilton,Electronics
+CUST00787,COMP003,Horizon Systems #787,India,Pune,Medical
+CUST00788,COMP001,Future Motors #788,South Korea,Seoul,Consumer Goods
+CUST00789,COMP002,Matrix Mobility Group #789,China,Ningbo,Electronics
+CUST00790,COMP004,Omni Medical Corp #790,Taiwan,Taipei,Consumer Goods
+CUST00791,COMP009,Pinnacle Systems #791,India,Bengaluru,Consumer Goods
+CUST00792,COMP002,Omni Mobility Group #792,South Korea,Incheon,Medical
+CUST00793,COMP007,Pinnacle Medical Corp #793,Germany,Stuttgart,Consumer Goods
+CUST00794,COMP001,Matrix Energy Corp #794,Japan,Nagoya,Industrial
+CUST00795,COMP003,Integrated Assembly Inc #795,South Korea,Incheon,Medical
+CUST00796,COMP001,Horizon Technologies #796,United Kingdom,Birmingham,Electronics
+CUST00797,COMP006,Matrix Assembly Inc #797,Taiwan,Taipei,Medical
+CUST00798,COMP002,Omni Medical Corp #798,Japan,Nagoya,Industrial
+CUST00799,COMP006,Core Technologies #799,South Korea,Incheon,Consumer Goods
+CUST00800,COMP006,Synergy Robotics #800,China,Suzhou,Automotive
+CUST00801,COMP005,Vertex Systems #801,United Kingdom,Birmingham,Industrial
+CUST00802,COMP001,Vertex Medical Corp #802,Taiwan,Hsinchu,Industrial
+CUST00803,COMP005,Genesis Industries #803,India,Bengaluru,Industrial
+CUST00804,COMP003,Pinnacle Assembly Inc #804,China,Shenzhen,Electronics
+CUST00805,COMP009,Matrix Engineering #805,Japan,Tokyo,Consumer Goods
+CUST00806,COMP001,Matrix Assembly Inc #806,China,Suzhou,Medical
+CUST00807,COMP008,Paramount Mobility Group #807,Germany,Munich,Industrial
+CUST00808,COMP005,Omni Motors #808,Japan,Osaka,Automotive
+CUST00809,COMP006,Kinetix Robotics #809,Vietnam,Hai Phong,Medical
+CUST00810,COMP001,Vanguard Medical Corp #810,Mexico,Querétaro,Automotive
+CUST00811,COMP002,Titanium Technologies #811,China,Shenzhen,Automotive
+CUST00812,COMP008,Matrix Energy Corp #812,Japan,Osaka,Medical
+CUST00813,COMP004,Sterling Motors #813,United Kingdom,Birmingham,Consumer Goods
+CUST00814,COMP007,Beacon Motors #814,Germany,Stuttgart,Consumer Goods
+CUST00815,COMP003,Titanium Solutions #815,Germany,Stuttgart,Medical
+CUST00816,COMP007,Omni Logistics #816,India,Pune,Electronics
+CUST00817,COMP006,Omni Assembly Inc #817,United States,Chicago,Automotive
+CUST00818,COMP008,Matrix Industries #818,China,Ningbo,Industrial
+CUST00819,COMP006,Beacon Systems #819,Japan,Tokyo,Electronics
+CUST00820,COMP007,Pinnacle Logistics #820,Taiwan,Taipei,Industrial
+CUST00821,COMP003,Matrix Motors #821,United States,Dallas,Consumer Goods
+CUST00822,COMP003,Future Logistics #822,India,Bengaluru,Electronics
+CUST00823,COMP001,Horizon Industries #823,Taiwan,Taipei,Electronics
+CUST00824,COMP001,Integrated Mobility Group #824,China,Suzhou,Medical
+CUST00825,COMP005,Vertex Engineering #825,South Korea,Incheon,Automotive
+CUST00826,COMP009,Paramount Logistics #826,Japan,Osaka,Automotive
+CUST00827,COMP002,Sterling Assembly Inc #827,Taiwan,Hsinchu,Consumer Goods
+CUST00828,COMP004,Sterling Assembly Inc #828,Germany,Dortmund,Consumer Goods
+CUST00829,COMP008,Sterling Logistics #829,United Kingdom,Birmingham,Automotive
+CUST00830,COMP009,Integrated Energy Corp #830,Japan,Osaka,Electronics
+CUST00831,COMP007,Dynamic Robotics #831,Germany,Munich,Automotive
+CUST00832,COMP006,Titanium Mobility Group #832,Vietnam,Hai Phong,Medical
+CUST00833,COMP005,Paramount Energy Corp #833,South Korea,Incheon,Automotive
+CUST00834,COMP007,Vanguard Logistics #834,India,Bengaluru,Consumer Goods
+CUST00835,COMP004,Horizon Logistics #835,Germany,Munich,Electronics
+CUST00836,COMP002,Genesis Engineering #836,Mexico,Querétaro,Consumer Goods
+CUST00837,COMP001,Matrix Motors #837,Germany,Stuttgart,Consumer Goods
+CUST00838,COMP003,Synergy Mobility Group #838,Taiwan,Taipei,Industrial
+CUST00839,COMP008,Integrated Engineering #839,United Kingdom,Birmingham,Automotive
+CUST00840,COMP003,Paramount Systems #840,Germany,Dortmund,Automotive
+CUST00841,COMP009,Core Logistics #841,Canada,Hamilton,Electronics
+CUST00842,COMP005,Vertex Automation Ltd #842,United States,Dallas,Medical
+CUST00843,COMP010,Synergy Robotics #843,Taiwan,Hsinchu,Industrial
+CUST00844,COMP006,Paramount Solutions #844,China,Ningbo,Medical
+CUST00845,COMP010,Vanguard Industries #845,China,Shenzhen,Electronics
+CUST00846,COMP007,Matrix Systems #846,Germany,Stuttgart,Medical
+CUST00847,COMP002,Titanium Motors #847,Japan,Osaka,Industrial
+CUST00848,COMP006,Kinetix Mobility Group #848,Japan,Nagoya,Automotive
+CUST00849,COMP008,Sterling Assembly Inc #849,China,Shenzhen,Consumer Goods
+CUST00850,COMP003,Future Motors #850,United States,Detroit,Electronics
+CUST00851,COMP003,Dynamic Industries #851,Germany,Munich,Electronics
+CUST00852,COMP008,Synergy Assembly Inc #852,China,Suzhou,Industrial
+CUST00853,COMP004,Future Automation Ltd #853,Japan,Tokyo,Industrial
+CUST00854,COMP002,Matrix Automation Ltd #854,Germany,Dortmund,Automotive
+CUST00855,COMP002,Synergy Medical Corp #855,Germany,Munich,Consumer Goods
+CUST00856,COMP003,Matrix Engineering #856,United States,Chicago,Consumer Goods
+CUST00857,COMP010,Future Mobility Group #857,United States,Detroit,Medical
+CUST00858,COMP008,Genesis Automation Ltd #858,Japan,Nagoya,Electronics
+CUST00859,COMP001,Pinnacle Mobility Group #859,United States,Dallas,Medical
+CUST00860,COMP004,Synergy Motors #860,United States,Dallas,Automotive
+CUST00861,COMP010,Pinnacle Motors #861,United Kingdom,Birmingham,Industrial
+CUST00862,COMP007,Horizon Motors #862,Taiwan,Taipei,Electronics
+CUST00863,COMP001,Dynamic Robotics #863,Taiwan,Taipei,Medical
+CUST00864,COMP007,Core Engineering #864,China,Suzhou,Industrial
+CUST00865,COMP002,Vertex Logistics #865,Mexico,Querétaro,Consumer Goods
+CUST00866,COMP006,Future Solutions #866,United Kingdom,Birmingham,Electronics
+CUST00867,COMP003,Matrix Engineering #867,Canada,Hamilton,Consumer Goods
+CUST00868,COMP004,Omni Mobility Group #868,India,Pune,Automotive
+CUST00869,COMP003,Sterling Engineering #869,Japan,Tokyo,Electronics
+CUST00870,COMP005,Integrated Energy Corp #870,Mexico,Querétaro,Consumer Goods
+CUST00871,COMP001,Kinetix Engineering #871,China,Ningbo,Consumer Goods
+CUST00872,COMP007,Paramount Solutions #872,South Korea,Seoul,Medical
+CUST00873,COMP006,Dynamic Logistics #873,Vietnam,Hai Phong,Industrial
+CUST00874,COMP010,Omni Energy Corp #874,Vietnam,Hai Phong,Automotive
+CUST00875,COMP005,Genesis Logistics #875,United States,Dallas,Electronics
+CUST00876,COMP005,Sterling Automation Ltd #876,Japan,Osaka,Industrial
+CUST00877,COMP008,Integrated Robotics #877,Canada,Hamilton,Automotive
+CUST00878,COMP002,Vanguard Motors #878,Mexico,Monterrey,Industrial
+CUST00879,COMP008,Core Automation Ltd #879,Germany,Stuttgart,Consumer Goods
+CUST00880,COMP003,Titanium Industries #880,Japan,Tokyo,Industrial
+CUST00881,COMP005,Dynamic Technologies #881,South Korea,Incheon,Industrial
+CUST00882,COMP009,Dynamic Energy Corp #882,China,Shenzhen,Medical
+CUST00883,COMP010,Dynamic Technologies #883,Taiwan,Taipei,Automotive
+CUST00884,COMP005,Omni Systems #884,India,Bengaluru,Industrial
+CUST00885,COMP008,Titanium Robotics #885,Vietnam,Hai Phong,Automotive
+CUST00886,COMP005,Titanium Assembly Inc #886,Canada,Hamilton,Automotive
+CUST00887,COMP008,Synergy Logistics #887,Japan,Tokyo,Consumer Goods
+CUST00888,COMP002,Integrated Logistics #888,Mexico,Querétaro,Electronics
+CUST00889,COMP008,Vanguard Engineering #889,Taiwan,Hsinchu,Medical
+CUST00890,COMP002,Titanium Logistics #890,India,Pune,Industrial
+CUST00891,COMP006,Integrated Medical Corp #891,India,Bengaluru,Electronics
+CUST00892,COMP006,Pinnacle Logistics #892,South Korea,Incheon,Electronics
+CUST00893,COMP001,Genesis Engineering #893,South Korea,Incheon,Medical
+CUST00894,COMP004,Horizon Robotics #894,United Kingdom,Birmingham,Medical
+CUST00895,COMP009,Vertex Logistics #895,India,Pune,Consumer Goods
+CUST00896,COMP004,Integrated Assembly Inc #896,Mexico,Querétaro,Medical
+CUST00897,COMP003,Horizon Mobility Group #897,South Korea,Seoul,Industrial
+CUST00898,COMP004,Pinnacle Robotics #898,United States,Dallas,Consumer Goods
+CUST00899,COMP004,Core Industries #899,Mexico,Monterrey,Consumer Goods
+CUST00900,COMP002,Beacon Mobility Group #900,Japan,Tokyo,Industrial
+CUST00901,COMP001,Matrix Logistics #901,India,Pune,Consumer Goods
+CUST00902,COMP005,Core Automation Ltd #902,Taiwan,Taipei,Industrial
+CUST00903,COMP001,Paramount Motors #903,China,Suzhou,Consumer Goods
+CUST00904,COMP002,Paramount Systems #904,United Kingdom,Birmingham,Automotive
+CUST00905,COMP005,Genesis Industries #905,South Korea,Incheon,Consumer Goods
+CUST00906,COMP006,Vanguard Engineering #906,India,Bengaluru,Medical
+CUST00907,COMP003,Synergy Solutions #907,Canada,Hamilton,Medical
+CUST00908,COMP003,Matrix Mobility Group #908,Germany,Dortmund,Industrial
+CUST00909,COMP004,Beacon Systems #909,Taiwan,Hsinchu,Industrial
+CUST00910,COMP006,Genesis Medical Corp #910,United States,Dallas,Industrial
+CUST00911,COMP010,Matrix Medical Corp #911,Japan,Tokyo,Automotive
+CUST00912,COMP002,Dynamic Technologies #912,China,Suzhou,Electronics
+CUST00913,COMP004,Core Technologies #913,Taiwan,Taipei,Industrial
+CUST00914,COMP005,Sterling Engineering #914,United States,Chicago,Automotive
+CUST00915,COMP003,Titanium Industries #915,United States,Dallas,Consumer Goods
+CUST00916,COMP009,Beacon Technologies #916,Mexico,Querétaro,Automotive
+CUST00917,COMP004,Synergy Industries #917,United States,Detroit,Industrial
+CUST00918,COMP010,Global Motors #918,Mexico,Querétaro,Consumer Goods
+CUST00919,COMP009,Global Motors #919,Vietnam,Hai Phong,Electronics
+CUST00920,COMP003,Titanium Mobility Group #920,United States,Detroit,Electronics
+CUST00921,COMP005,Synergy Engineering #921,South Korea,Seoul,Medical
+CUST00922,COMP007,Matrix Motors #922,United Kingdom,Birmingham,Medical
+CUST00923,COMP009,Future Mobility Group #923,Mexico,Querétaro,Electronics
+CUST00924,COMP009,Omni Assembly Inc #924,Canada,Hamilton,Medical
+CUST00925,COMP008,Dynamic Motors #925,United Kingdom,Birmingham,Automotive
+CUST00926,COMP001,Kinetix Solutions #926,Japan,Osaka,Industrial
+CUST00927,COMP005,Genesis Industries #927,China,Shenzhen,Consumer Goods
+CUST00928,COMP006,Vertex Mobility Group #928,Germany,Stuttgart,Electronics
+CUST00929,COMP002,Future Medical Corp #929,Taiwan,Taipei,Electronics
+CUST00930,COMP001,Pinnacle Industries #930,Taiwan,Taipei,Electronics
+CUST00931,COMP005,Future Assembly Inc #931,Japan,Nagoya,Medical
+CUST00932,COMP007,Global Solutions #932,United States,Detroit,Medical
+CUST00933,COMP008,Sterling Assembly Inc #933,Taiwan,Hsinchu,Industrial
+CUST00934,COMP001,Future Automation Ltd #934,United States,Dallas,Industrial
+CUST00935,COMP009,Omni Industries #935,Germany,Stuttgart,Automotive
+CUST00936,COMP010,Integrated Engineering #936,Taiwan,Taipei,Medical
+CUST00937,COMP003,Vertex Medical Corp #937,China,Shenzhen,Industrial
+CUST00938,COMP004,Omni Systems #938,China,Suzhou,Consumer Goods
+CUST00939,COMP006,Paramount Medical Corp #939,United States,Chicago,Electronics
+CUST00940,COMP007,Dynamic Engineering #940,China,Shenzhen,Automotive
+CUST00941,COMP006,Beacon Logistics #941,China,Suzhou,Automotive
+CUST00942,COMP008,Omni Industries #942,Mexico,Querétaro,Consumer Goods
+CUST00943,COMP005,Future Robotics #943,Germany,Munich,Consumer Goods
+CUST00944,COMP009,Genesis Assembly Inc #944,Mexico,Monterrey,Consumer Goods
+CUST00945,COMP009,Vertex Systems #945,United States,Chicago,Medical
+CUST00946,COMP006,Omni Energy Corp #946,China,Shenzhen,Industrial
+CUST00947,COMP005,Future Motors #947,Taiwan,Taipei,Electronics
+CUST00948,COMP004,Genesis Systems #948,Japan,Nagoya,Automotive
+CUST00949,COMP007,Global Automation Ltd #949,South Korea,Incheon,Automotive
+CUST00950,COMP008,Omni Solutions #950,Japan,Nagoya,Electronics
+CUST00951,COMP001,Horizon Automation Ltd #951,India,Bengaluru,Industrial
+CUST00952,COMP001,Omni Automation Ltd #952,India,Pune,Industrial
+CUST00953,COMP001,Matrix Robotics #953,India,Pune,Electronics
+CUST00954,COMP010,Matrix Solutions #954,Mexico,Querétaro,Consumer Goods
+CUST00955,COMP002,Horizon Technologies #955,Mexico,Monterrey,Industrial
+CUST00956,COMP010,Pinnacle Medical Corp #956,India,Pune,Automotive
+CUST00957,COMP006,Integrated Industries #957,Taiwan,Hsinchu,Consumer Goods
+CUST00958,COMP008,Beacon Technologies #958,India,Bengaluru,Automotive
+CUST00959,COMP005,Pinnacle Engineering #959,Taiwan,Hsinchu,Medical
+CUST00960,COMP002,Integrated Motors #960,United Kingdom,Birmingham,Consumer Goods
+CUST00961,COMP009,Matrix Solutions #961,Vietnam,Hai Phong,Industrial
+CUST00962,COMP002,Sterling Mobility Group #962,China,Suzhou,Consumer Goods
+CUST00963,COMP010,Omni Industries #963,Vietnam,Hai Phong,Automotive
+CUST00964,COMP004,Matrix Automation Ltd #964,Vietnam,Hai Phong,Automotive
+CUST00965,COMP002,Vanguard Energy Corp #965,Mexico,Monterrey,Industrial
+CUST00966,COMP001,Dynamic Mobility Group #966,South Korea,Seoul,Medical
+CUST00967,COMP004,Global Motors #967,India,Pune,Consumer Goods
+CUST00968,COMP005,Kinetix Engineering #968,India,Bengaluru,Consumer Goods
+CUST00969,COMP002,Dynamic Systems #969,Taiwan,Taipei,Consumer Goods
+CUST00970,COMP003,Beacon Technologies #970,Germany,Munich,Medical
+CUST00971,COMP007,Kinetix Solutions #971,Japan,Nagoya,Automotive
+CUST00972,COMP007,Sterling Logistics #972,South Korea,Incheon,Industrial
+CUST00973,COMP007,Vanguard Engineering #973,South Korea,Incheon,Consumer Goods
+CUST00974,COMP006,Genesis Logistics #974,United Kingdom,Birmingham,Medical
+CUST00975,COMP002,Vanguard Technologies #975,Japan,Osaka,Medical
+CUST00976,COMP002,Pinnacle Systems #976,China,Suzhou,Consumer Goods
+CUST00977,COMP006,Paramount Industries #977,Taiwan,Hsinchu,Automotive
+CUST00978,COMP008,Pinnacle Assembly Inc #978,Mexico,Monterrey,Medical
+CUST00979,COMP005,Kinetix Energy Corp #979,Germany,Dortmund,Industrial
+CUST00980,COMP007,Global Technologies #980,Japan,Tokyo,Electronics
+CUST00981,COMP006,Synergy Motors #981,Germany,Stuttgart,Automotive
+CUST00982,COMP001,Omni Automation Ltd #982,Mexico,Querétaro,Consumer Goods
+CUST00983,COMP004,Pinnacle Engineering #983,Japan,Nagoya,Consumer Goods
+CUST00984,COMP002,Integrated Systems #984,United States,Detroit,Automotive
+CUST00985,COMP002,Titanium Motors #985,United States,Dallas,Medical
+CUST00986,COMP005,Matrix Technologies #986,Canada,Hamilton,Consumer Goods
+CUST00987,COMP002,Sterling Automation Ltd #987,South Korea,Seoul,Consumer Goods
+CUST00988,COMP007,Pinnacle Robotics #988,Japan,Nagoya,Electronics
+CUST00989,COMP004,Beacon Motors #989,Germany,Dortmund,Automotive
+CUST00990,COMP003,Integrated Medical Corp #990,Canada,Hamilton,Consumer Goods
+CUST00991,COMP003,Integrated Engineering #991,South Korea,Seoul,Automotive
+CUST00992,COMP009,Vertex Mobility Group #992,South Korea,Seoul,Automotive
+CUST00993,COMP010,Omni Solutions #993,Mexico,Monterrey,Industrial
+CUST00994,COMP008,Integrated Mobility Group #994,Japan,Tokyo,Medical
+CUST00995,COMP005,Omni Medical Corp #995,Japan,Nagoya,Electronics
+CUST00996,COMP005,Matrix Motors #996,Germany,Dortmund,Medical
+CUST00997,COMP010,Pinnacle Automation Ltd #997,Taiwan,Taipei,Industrial
+CUST00998,COMP007,Vanguard Assembly Inc #998,India,Pune,Electronics
+CUST00999,COMP001,Kinetix Engineering #999,Canada,Hamilton,Electronics
+CUST01000,COMP010,Matrix Industries #1000,Germany,Munich,Electronics

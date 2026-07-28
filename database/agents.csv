@@ -1,0 +1,6 @@
+agent_id,name,type,status
+AG001,Orchestrator Prime,Manager Agent,Active
+AG002,ProcureAI Sentinel,Procurement Agent,Active
+AG003,StockSense Guard,Inventory Agent,Active
+AG004,OptiManufacture Agent,Production Agent,Active
+AG005,FreightTrack Sentinel,Logistics Agent,Active

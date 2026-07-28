@@ -1,0 +1,26 @@
+warehouse_id,company_id,name,location,capacity
+WH001,COMP005,Chicago Central Hub,"Chicago, IL, USA",120000
+WH002,COMP003,Detroit Logistics Terminal,"Detroit, MI, USA",95000
+WH003,COMP003,Dallas Fulfillment Facility,"Dallas, TX, USA",150000
+WH004,COMP009,Stuttgart European Depot,"Stuttgart, Germany",85000
+WH005,COMP005,Munich Distribution Center,"Munich, Germany",110000
+WH006,COMP010,Tokyo Bay Logistics Park,"Tokyo, Japan",140000
+WH007,COMP010,Osaka Freight Terminal,"Osaka, Japan",78000
+WH008,COMP004,Taipei High-Tech Logistics,"Taipei, Taiwan",65000
+WH009,COMP010,Shenzhen Export Warehouse,"Shenzhen, China",200000
+WH010,COMP001,Rotterdam Gateway Port Depot,"Rotterdam, Netherlands",180000
+WH011,COMP009,Incheon Global Logistics Hub,"Incheon, South Korea",90000
+WH012,COMP010,Monterrey Border Facility,"Monterrey, Mexico",105000
+WH013,COMP003,Pune Industrial Logistics Center,"Pune, India",115000
+WH014,COMP007,London Thames Logistics Park,"London, UK",70000
+WH015,COMP002,Singapore ASEAN Gateway Depot,Singapore,160000
+WH016,COMP004,Atlanta Southeast Hub,"Atlanta, GA, USA",130000
+WH017,COMP008,Seattle Pacific Northwest Facility,"Seattle, WA, USA",88000
+WH018,COMP002,Hamburg Port Warehouse,"Hamburg, Germany",125000
+WH019,COMP006,Toronto Great Lakes Hub,"Toronto, Canada",92000
+WH020,COMP001,Guadalajara Assembly & Storage,"Guadalajara, Mexico",80000
+WH021,COMP005,Bengaluru Tech Depot,"Bengaluru, India",98000
+WH022,COMP002,Melbourne Oceania Terminal,"Melbourne, Australia",75000
+WH023,COMP007,Frankfurt Cargo Center,"Frankfurt, Germany",145000
+WH024,COMP006,Los Angeles Port Logistics,"Los Angeles, CA, USA",210000
+WH025,COMP010,Yokohama Container Facility,"Yokohama, Japan",82000

@@ -1,0 +1,301 @@
+report_id,generated_by,overall_risk,recommendation,confidence,created_at
+REP001,AG004,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.98,2026-05-01 08:00:00
+REP002,AG004,Medium,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.89,2026-06-19 04:00:00
+REP003,AG003,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.79,2026-06-14 13:00:00
+REP004,AG003,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.94,2026-05-27 20:00:00
+REP005,AG002,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.67,2026-06-15 20:00:00
+REP006,AG002,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.86,2026-05-02 06:00:00
+REP007,AG003,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.97,2026-07-20 14:00:00
+REP008,AG004,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.83,2026-07-03 21:00:00
+REP009,AG004,Low,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.85,2026-06-27 05:00:00
+REP010,AG002,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.91,2026-06-05 22:00:00
+REP011,AG001,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.93,2026-07-26 04:00:00
+REP012,AG003,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.77,2026-05-25 19:00:00
+REP013,AG002,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.99,2026-06-08 12:00:00
+REP014,AG005,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.97,2026-05-06 19:00:00
+REP015,AG003,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.67,2026-07-26 11:00:00
+REP016,AG005,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.86,2026-05-17 22:00:00
+REP017,AG002,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.97,2026-06-13 04:00:00
+REP018,AG001,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.74,2026-05-20 02:00:00
+REP019,AG001,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.91,2026-07-05 10:00:00
+REP020,AG005,Medium,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.87,2026-05-13 02:00:00
+REP021,AG003,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.81,2026-06-15 01:00:00
+REP022,AG002,Medium,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.71,2026-05-06 08:00:00
+REP023,AG005,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.74,2026-05-28 17:00:00
+REP024,AG001,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.92,2026-07-10 12:00:00
+REP025,AG001,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.81,2026-07-04 12:00:00
+REP026,AG003,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.84,2026-05-07 14:00:00
+REP027,AG005,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.67,2026-06-11 05:00:00
+REP028,AG004,Critical,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.94,2026-07-07 02:00:00
+REP029,AG005,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.83,2026-07-20 18:00:00
+REP030,AG005,High,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.89,2026-05-10 10:00:00
+REP031,AG005,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.85,2026-06-05 02:00:00
+REP032,AG003,Medium,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.93,2026-07-02 14:00:00
+REP033,AG001,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.67,2026-07-19 01:00:00
+REP034,AG004,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.91,2026-07-05 06:00:00
+REP035,AG003,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.88,2026-06-17 21:00:00
+REP036,AG002,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.7,2026-05-26 04:00:00
+REP037,AG002,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.76,2026-06-02 23:00:00
+REP038,AG002,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.65,2026-06-22 12:00:00
+REP039,AG005,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.8,2026-05-22 11:00:00
+REP040,AG004,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.72,2026-07-21 15:00:00
+REP041,AG001,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.9,2026-05-07 08:00:00
+REP042,AG002,Low,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.71,2026-05-01 18:00:00
+REP043,AG004,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.86,2026-06-12 17:00:00
+REP044,AG001,Critical,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.85,2026-06-28 05:00:00
+REP045,AG003,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.89,2026-05-29 14:00:00
+REP046,AG004,High,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.69,2026-05-03 19:00:00
+REP047,AG004,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.66,2026-05-17 18:00:00
+REP048,AG005,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.8,2026-05-03 20:00:00
+REP049,AG002,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.78,2026-05-19 11:00:00
+REP050,AG003,Critical,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.87,2026-05-23 03:00:00
+REP051,AG003,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.91,2026-05-18 01:00:00
+REP052,AG005,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.93,2026-07-06 03:00:00
+REP053,AG005,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.8,2026-07-27 10:00:00
+REP054,AG004,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.99,2026-06-29 21:00:00
+REP055,AG001,Low,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.96,2026-05-19 00:00:00
+REP056,AG004,Medium,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.67,2026-06-24 04:00:00
+REP057,AG002,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.91,2026-07-21 08:00:00
+REP058,AG004,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.78,2026-07-09 03:00:00
+REP059,AG001,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.79,2026-05-06 23:00:00
+REP060,AG001,Critical,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.79,2026-05-23 22:00:00
+REP061,AG003,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.69,2026-07-18 17:00:00
+REP062,AG003,Critical,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.66,2026-06-06 21:00:00
+REP063,AG001,Low,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.81,2026-07-18 20:00:00
+REP064,AG003,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.95,2026-05-11 17:00:00
+REP065,AG001,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.73,2026-07-25 15:00:00
+REP066,AG003,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.95,2026-06-14 17:00:00
+REP067,AG002,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.92,2026-05-01 03:00:00
+REP068,AG001,High,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.97,2026-05-19 15:00:00
+REP069,AG001,Low,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.93,2026-07-05 13:00:00
+REP070,AG004,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.91,2026-07-19 13:00:00
+REP071,AG004,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.95,2026-06-11 03:00:00
+REP072,AG001,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.9,2026-07-24 03:00:00
+REP073,AG002,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.67,2026-06-18 08:00:00
+REP074,AG002,Low,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.93,2026-07-07 06:00:00
+REP075,AG001,High,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.83,2026-07-13 11:00:00
+REP076,AG001,Low,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.89,2026-06-06 14:00:00
+REP077,AG004,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.7,2026-07-07 14:00:00
+REP078,AG005,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.68,2026-07-14 11:00:00
+REP079,AG004,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.89,2026-05-04 17:00:00
+REP080,AG005,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.92,2026-07-02 10:00:00
+REP081,AG005,Medium,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.89,2026-06-14 19:00:00
+REP082,AG002,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.84,2026-07-27 00:00:00
+REP083,AG005,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.7,2026-07-24 16:00:00
+REP084,AG002,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.82,2026-05-17 04:00:00
+REP085,AG003,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.7,2026-06-04 04:00:00
+REP086,AG003,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.89,2026-05-03 23:00:00
+REP087,AG004,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.96,2026-06-10 17:00:00
+REP088,AG004,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.77,2026-06-22 22:00:00
+REP089,AG003,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.98,2026-05-29 02:00:00
+REP090,AG002,Critical,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.99,2026-07-27 10:00:00
+REP091,AG003,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.75,2026-07-26 22:00:00
+REP092,AG004,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.94,2026-06-03 22:00:00
+REP093,AG005,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.85,2026-05-16 15:00:00
+REP094,AG004,Low,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.67,2026-07-22 19:00:00
+REP095,AG002,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.82,2026-05-17 09:00:00
+REP096,AG001,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.71,2026-07-21 15:00:00
+REP097,AG005,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.9,2026-07-18 06:00:00
+REP098,AG003,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.86,2026-07-14 19:00:00
+REP099,AG005,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.67,2026-05-25 10:00:00
+REP100,AG002,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.8,2026-05-14 09:00:00
+REP101,AG001,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.75,2026-07-04 00:00:00
+REP102,AG001,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.8,2026-05-16 10:00:00
+REP103,AG005,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.89,2026-07-20 08:00:00
+REP104,AG003,Medium,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.91,2026-07-19 03:00:00
+REP105,AG004,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.68,2026-06-03 08:00:00
+REP106,AG004,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.78,2026-06-03 17:00:00
+REP107,AG002,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.78,2026-06-23 04:00:00
+REP108,AG002,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.84,2026-07-09 20:00:00
+REP109,AG005,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.86,2026-05-06 06:00:00
+REP110,AG005,Medium,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.68,2026-05-17 03:00:00
+REP111,AG004,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.7,2026-05-29 23:00:00
+REP112,AG001,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.91,2026-05-23 20:00:00
+REP113,AG003,Medium,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.69,2026-07-16 19:00:00
+REP114,AG003,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.96,2026-07-09 23:00:00
+REP115,AG003,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.89,2026-06-20 23:00:00
+REP116,AG005,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.95,2026-06-02 04:00:00
+REP117,AG005,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.75,2026-06-11 04:00:00
+REP118,AG003,Critical,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.89,2026-06-24 18:00:00
+REP119,AG001,Critical,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.73,2026-07-24 18:00:00
+REP120,AG003,Critical,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.8,2026-06-01 21:00:00
+REP121,AG003,Low,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.73,2026-06-09 21:00:00
+REP122,AG001,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.88,2026-06-28 14:00:00
+REP123,AG002,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.98,2026-05-17 19:00:00
+REP124,AG002,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.79,2026-06-29 00:00:00
+REP125,AG002,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.76,2026-07-12 04:00:00
+REP126,AG005,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.94,2026-06-01 19:00:00
+REP127,AG003,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.66,2026-07-24 22:00:00
+REP128,AG002,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.99,2026-06-26 16:00:00
+REP129,AG005,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.69,2026-06-10 00:00:00
+REP130,AG003,Low,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.72,2026-06-24 03:00:00
+REP131,AG001,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.97,2026-07-12 13:00:00
+REP132,AG001,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.78,2026-06-10 02:00:00
+REP133,AG003,Critical,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.89,2026-07-10 05:00:00
+REP134,AG005,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.81,2026-07-15 08:00:00
+REP135,AG003,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.99,2026-07-11 02:00:00
+REP136,AG001,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.86,2026-07-21 12:00:00
+REP137,AG005,High,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.71,2026-07-02 09:00:00
+REP138,AG003,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.65,2026-05-29 16:00:00
+REP139,AG004,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.75,2026-06-04 17:00:00
+REP140,AG005,Critical,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.92,2026-07-22 05:00:00
+REP141,AG004,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.82,2026-06-02 13:00:00
+REP142,AG003,Low,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.74,2026-06-03 18:00:00
+REP143,AG001,Critical,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.94,2026-05-16 07:00:00
+REP144,AG005,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.89,2026-06-20 01:00:00
+REP145,AG004,Medium,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.85,2026-06-17 09:00:00
+REP146,AG004,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.7,2026-06-10 18:00:00
+REP147,AG001,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.9,2026-07-22 00:00:00
+REP148,AG005,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.71,2026-07-22 17:00:00
+REP149,AG003,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.68,2026-06-09 06:00:00
+REP150,AG001,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.71,2026-06-14 20:00:00
+REP151,AG005,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.92,2026-06-20 01:00:00
+REP152,AG005,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.99,2026-07-05 19:00:00
+REP153,AG001,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.76,2026-05-21 14:00:00
+REP154,AG003,Medium,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.83,2026-07-02 19:00:00
+REP155,AG005,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.72,2026-07-03 15:00:00
+REP156,AG002,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.99,2026-06-05 00:00:00
+REP157,AG001,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.85,2026-05-08 11:00:00
+REP158,AG002,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.99,2026-06-13 14:00:00
+REP159,AG003,High,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.77,2026-06-27 19:00:00
+REP160,AG005,Low,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.99,2026-05-23 04:00:00
+REP161,AG002,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.94,2026-07-02 03:00:00
+REP162,AG005,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.9,2026-06-11 13:00:00
+REP163,AG002,High,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.71,2026-05-08 04:00:00
+REP164,AG004,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.86,2026-07-09 20:00:00
+REP165,AG003,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.79,2026-06-12 09:00:00
+REP166,AG005,Medium,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.69,2026-06-08 10:00:00
+REP167,AG004,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.84,2026-05-06 16:00:00
+REP168,AG001,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.91,2026-05-11 13:00:00
+REP169,AG004,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.66,2026-06-02 14:00:00
+REP170,AG005,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.81,2026-07-12 23:00:00
+REP171,AG001,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.81,2026-05-20 19:00:00
+REP172,AG003,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.91,2026-05-21 14:00:00
+REP173,AG003,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.89,2026-07-14 17:00:00
+REP174,AG003,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.81,2026-07-16 22:00:00
+REP175,AG003,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.76,2026-06-26 00:00:00
+REP176,AG005,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.9,2026-06-01 07:00:00
+REP177,AG002,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.69,2026-06-17 14:00:00
+REP178,AG005,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.67,2026-06-06 14:00:00
+REP179,AG005,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.88,2026-05-28 20:00:00
+REP180,AG003,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.97,2026-07-11 07:00:00
+REP181,AG003,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.69,2026-05-30 04:00:00
+REP182,AG005,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.85,2026-06-25 05:00:00
+REP183,AG004,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.67,2026-06-22 01:00:00
+REP184,AG002,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.87,2026-05-17 18:00:00
+REP185,AG002,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.85,2026-07-02 13:00:00
+REP186,AG003,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.87,2026-05-30 04:00:00
+REP187,AG001,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.66,2026-07-26 20:00:00
+REP188,AG002,Low,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.99,2026-06-20 19:00:00
+REP189,AG001,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.9,2026-05-23 11:00:00
+REP190,AG001,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.78,2026-07-23 19:00:00
+REP191,AG003,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.81,2026-07-03 00:00:00
+REP192,AG001,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.73,2026-05-28 20:00:00
+REP193,AG002,High,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.9,2026-05-20 11:00:00
+REP194,AG002,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.95,2026-06-02 03:00:00
+REP195,AG002,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.77,2026-06-26 13:00:00
+REP196,AG001,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.69,2026-05-24 20:00:00
+REP197,AG004,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.91,2026-06-17 10:00:00
+REP198,AG004,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.87,2026-05-28 19:00:00
+REP199,AG005,Medium,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.78,2026-06-23 11:00:00
+REP200,AG004,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.91,2026-07-13 21:00:00
+REP201,AG005,Low,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.75,2026-06-06 22:00:00
+REP202,AG001,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.87,2026-07-07 02:00:00
+REP203,AG005,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.86,2026-05-28 14:00:00
+REP204,AG004,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.66,2026-06-30 02:00:00
+REP205,AG002,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.88,2026-05-12 15:00:00
+REP206,AG001,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.96,2026-07-22 02:00:00
+REP207,AG002,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.7,2026-06-06 09:00:00
+REP208,AG004,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.87,2026-07-09 09:00:00
+REP209,AG003,Medium,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.88,2026-05-02 19:00:00
+REP210,AG002,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.72,2026-06-23 17:00:00
+REP211,AG005,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.82,2026-07-20 07:00:00
+REP212,AG002,Low,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.69,2026-05-21 08:00:00
+REP213,AG001,Medium,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.97,2026-05-15 03:00:00
+REP214,AG001,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.7,2026-06-20 20:00:00
+REP215,AG001,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.88,2026-06-22 14:00:00
+REP216,AG004,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.69,2026-07-21 17:00:00
+REP217,AG004,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.75,2026-06-06 01:00:00
+REP218,AG003,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.74,2026-07-22 02:00:00
+REP219,AG002,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.66,2026-05-27 22:00:00
+REP220,AG005,Medium,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.75,2026-07-01 22:00:00
+REP221,AG001,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.99,2026-07-17 19:00:00
+REP222,AG004,High,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.88,2026-05-10 06:00:00
+REP223,AG002,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.96,2026-06-30 19:00:00
+REP224,AG003,Low,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.84,2026-06-23 17:00:00
+REP225,AG004,Low,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.77,2026-07-09 13:00:00
+REP226,AG005,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.92,2026-07-23 15:00:00
+REP227,AG005,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.86,2026-05-17 15:00:00
+REP228,AG001,High,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.75,2026-05-18 22:00:00
+REP229,AG002,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.76,2026-06-26 23:00:00
+REP230,AG005,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.93,2026-07-02 01:00:00
+REP231,AG002,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.85,2026-06-23 05:00:00
+REP232,AG003,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.99,2026-07-15 19:00:00
+REP233,AG004,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.96,2026-07-01 14:00:00
+REP234,AG004,Low,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.95,2026-05-13 16:00:00
+REP235,AG004,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.69,2026-06-03 15:00:00
+REP236,AG003,High,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.74,2026-05-06 05:00:00
+REP237,AG004,Medium,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.68,2026-05-06 19:00:00
+REP238,AG003,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.93,2026-07-22 08:00:00
+REP239,AG001,High,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.92,2026-07-07 11:00:00
+REP240,AG002,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.7,2026-05-17 12:00:00
+REP241,AG001,Critical,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.97,2026-07-03 11:00:00
+REP242,AG001,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.9,2026-06-25 03:00:00
+REP243,AG003,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.81,2026-06-12 11:00:00
+REP244,AG002,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.99,2026-06-03 16:00:00
+REP245,AG004,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.77,2026-06-27 06:00:00
+REP246,AG005,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.84,2026-07-27 00:00:00
+REP247,AG005,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.84,2026-06-29 03:00:00
+REP248,AG005,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.75,2026-05-29 04:00:00
+REP249,AG004,Low,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.76,2026-06-23 15:00:00
+REP250,AG005,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.94,2026-07-02 10:00:00
+REP251,AG002,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.68,2026-07-12 20:00:00
+REP252,AG001,Low,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.78,2026-05-22 12:00:00
+REP253,AG005,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.87,2026-05-05 17:00:00
+REP254,AG001,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.87,2026-06-27 10:00:00
+REP255,AG003,Critical,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.97,2026-07-24 06:00:00
+REP256,AG003,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.86,2026-06-29 10:00:00
+REP257,AG004,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.84,2026-05-14 14:00:00
+REP258,AG004,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.74,2026-06-15 12:00:00
+REP259,AG002,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.9,2026-07-06 04:00:00
+REP260,AG005,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.85,2026-07-07 14:00:00
+REP261,AG001,Low,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.71,2026-05-14 04:00:00
+REP262,AG004,Medium,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.71,2026-06-05 04:00:00
+REP263,AG004,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.86,2026-05-02 05:00:00
+REP264,AG002,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.66,2026-06-02 18:00:00
+REP265,AG005,Critical,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.96,2026-05-23 01:00:00
+REP266,AG005,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.94,2026-05-07 10:00:00
+REP267,AG005,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.85,2026-07-14 11:00:00
+REP268,AG004,Critical,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.98,2026-05-24 02:00:00
+REP269,AG004,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.82,2026-05-28 17:00:00
+REP270,AG004,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.69,2026-07-11 06:00:00
+REP271,AG003,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.67,2026-06-07 19:00:00
+REP272,AG003,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.84,2026-05-17 00:00:00
+REP273,AG005,Low,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.93,2026-06-10 00:00:00
+REP274,AG001,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.85,2026-07-05 12:00:00
+REP275,AG001,Medium,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.97,2026-06-21 23:00:00
+REP276,AG004,High,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.99,2026-05-03 14:00:00
+REP277,AG002,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.88,2026-06-27 01:00:00
+REP278,AG001,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.76,2026-07-18 23:00:00
+REP279,AG004,Low,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.65,2026-07-09 17:00:00
+REP280,AG002,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.79,2026-05-29 19:00:00
+REP281,AG005,Low,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.75,2026-07-26 02:00:00
+REP282,AG005,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.82,2026-05-25 04:00:00
+REP283,AG004,Medium,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.65,2026-07-02 14:00:00
+REP284,AG004,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.88,2026-06-15 21:00:00
+REP285,AG003,Low,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.82,2026-05-24 03:00:00
+REP286,AG005,Critical,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.69,2026-06-12 11:00:00
+REP287,AG004,High,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.67,2026-05-30 14:00:00
+REP288,AG004,Critical,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.74,2026-07-11 23:00:00
+REP289,AG001,Low,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.77,2026-07-12 01:00:00
+REP290,AG004,Critical,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.68,2026-05-20 08:00:00
+REP291,AG001,High,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.73,2026-06-25 16:00:00
+REP292,AG001,Low,Re-evaluate supplier risk index for Pacific Metals & Alloys following 3 consecutive delayed deliveries.,0.86,2026-07-17 07:00:00
+REP293,AG005,Low,Schedule predictive maintenance for CNC Milling Center #014 to prevent catastrophic downtime.,0.65,2026-05-22 04:00:00
+REP294,AG004,High,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.77,2026-07-24 08:00:00
+REP295,AG005,Medium,Diversify tier-2 supplier allocation for automotive rotors to mitigate elevated lead-time risk.,0.87,2026-07-08 00:00:00
+REP296,AG004,Critical,Accelerate purchase order PO00342 to prevent impending stockout in Chicago Central Hub.,0.69,2026-07-19 16:00:00
+REP297,AG001,Medium,Initiate emergency safety stock reorder for critical microcontrollers due to predicted APAC port congestion.,0.79,2026-07-10 08:00:00
+REP298,AG004,High,Optimize warehouse storage layout in Rotterdam Gateway Port Depot to improve pick throughput by 14%.,0.89,2026-07-24 09:00:00
+REP299,AG001,Medium,Reroute Shipment TRK-DHL-8921 to avoid regional weather disruption in Midwestern transit hub.,0.8,2026-06-24 14:00:00
+REP300,AG004,Medium,Deploy autonomous agent workflow WF-BOTTLENECK-DETECTION across European manufacturing lines.,0.73,2026-06-14 00:00:00

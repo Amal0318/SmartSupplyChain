@@ -1,0 +1,101 @@
+user_id,company_id,name,email,role,department
+USR001,COMP002,Beatrix Navarro,beatrix.navarro1@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR002,COMP004,Oliver Montgomery,oliver.montgomery2@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR003,COMP002,Isaac Chen,isaac.chen3@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR004,COMP007,Charles Vance,charles.vance4@supplychain-corp.com,Admin,Executive Office
+USR005,COMP004,Oliver Takahashi,oliver.takahashi5@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR006,COMP001,Jasmine Nakamura,jasmine.nakamura6@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR007,COMP009,Arthur Patel,arthur.patel7@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR008,COMP010,Rachel Svensson,rachel.svensson8@supplychain-corp.com,Admin,Executive Office
+USR009,COMP003,Brigitte Alvarez,brigitte.alvarez9@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR010,COMP003,Nora Donovan,nora.donovan10@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR011,COMP002,Fiona Sinclair,fiona.sinclair11@supplychain-corp.com,Admin,Executive Office
+USR012,COMP006,William Zimmerman,william.zimmerman12@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR013,COMP001,Deborah O'Connor,deborah.o'connor13@supplychain-corp.com,Admin,Executive Office
+USR014,COMP007,Fiona O'Connor,fiona.o'connor14@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR015,COMP010,Xena Hawthorne,xena.hawthorne15@supplychain-corp.com,Procurement Manager,Global Procurement
+USR016,COMP002,Charles Fletcher,charles.fletcher16@supplychain-corp.com,Procurement Manager,Global Procurement
+USR017,COMP005,Fiona MacLeod,fiona.macleod17@supplychain-corp.com,Procurement Manager,Global Procurement
+USR018,COMP002,Yusuf Schneider,yusuf.schneider18@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR019,COMP006,Kevin Thornton,kevin.thornton19@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR020,COMP004,Rachel Vasquez,rachel.vasquez20@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR021,COMP002,Mitchell Barrett,mitchell.barrett21@supplychain-corp.com,Procurement Manager,Global Procurement
+USR022,COMP009,Penelope Dubois,penelope.dubois22@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR023,COMP007,Rachel Kapur,rachel.kapur23@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR024,COMP009,Oliver Fletcher,oliver.fletcher24@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR025,COMP001,Oliver Gomez,oliver.gomez25@supplychain-corp.com,Admin,Executive Office
+USR026,COMP006,Zoe Schneider,zoe.schneider26@supplychain-corp.com,Admin,Executive Office
+USR027,COMP004,Karl Boucher,karl.boucher27@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR028,COMP006,Nora Barrett,nora.barrett28@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR029,COMP007,Deborah Montgomery,deborah.montgomery29@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR030,COMP003,Penelope Navarro,penelope.navarro30@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR031,COMP009,Quentin Navarro,quentin.navarro31@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR032,COMP007,Lorena Sinclair,lorena.sinclair32@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR033,COMP004,Ian Takahashi,ian.takahashi33@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR034,COMP002,Diana MacLeod,diana.macleod34@supplychain-corp.com,Admin,Executive Office
+USR035,COMP003,Kevin Svensson,kevin.svensson35@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR036,COMP007,Mitchell Chen,mitchell.chen36@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR037,COMP007,Mitchell Lindqvist,mitchell.lindqvist37@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR038,COMP005,Jasmine MacLeod,jasmine.macleod38@supplychain-corp.com,Admin,Executive Office
+USR039,COMP002,Isaac Donovan,isaac.donovan39@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR040,COMP006,Hannah Gallagher,hannah.gallagher40@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR041,COMP003,Deborah Vance,deborah.vance41@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR042,COMP005,Gavin Donovan,gavin.donovan42@supplychain-corp.com,Procurement Manager,Global Procurement
+USR043,COMP009,George MacLeod,george.macleod43@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR044,COMP005,Gavin Zimmerman,gavin.zimmerman44@supplychain-corp.com,Procurement Manager,Global Procurement
+USR045,COMP003,Xena Donovan,xena.donovan45@supplychain-corp.com,Procurement Manager,Global Procurement
+USR046,COMP009,Helena Kapur,helena.kapur46@supplychain-corp.com,Admin,Executive Office
+USR047,COMP010,Ulysses Russo,ulysses.russo47@supplychain-corp.com,Admin,Executive Office
+USR048,COMP002,Xena Boucher,xena.boucher48@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR049,COMP004,Diana Patel,diana.patel49@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR050,COMP002,Fiona Navarro,fiona.navarro50@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR051,COMP002,Isaac Donovan,isaac.donovan51@supplychain-corp.com,Procurement Manager,Global Procurement
+USR052,COMP003,Edward O'Connor,edward.o'connor52@supplychain-corp.com,Procurement Manager,Global Procurement
+USR053,COMP005,Helena MacLeod,helena.macleod53@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR054,COMP007,Nora Kapur,nora.kapur54@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR055,COMP004,Teresa Sinclair,teresa.sinclair55@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR056,COMP006,Conrad Boucher,conrad.boucher56@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR057,COMP008,Hannah Patel,hannah.patel57@supplychain-corp.com,Procurement Manager,Global Procurement
+USR058,COMP002,Victoria Vance,victoria.vance58@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR059,COMP009,Oliver Hawthorne,oliver.hawthorne59@supplychain-corp.com,Procurement Manager,Global Procurement
+USR060,COMP001,Ethan Vasquez,ethan.vasquez60@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR061,COMP001,Oliver Chen,oliver.chen61@supplychain-corp.com,Admin,Executive Office
+USR062,COMP006,Ethan Takahashi,ethan.takahashi62@supplychain-corp.com,Procurement Manager,Global Procurement
+USR063,COMP005,Freya Nakamura,freya.nakamura63@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR064,COMP003,Karl Hawthorne,karl.hawthorne64@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR065,COMP004,Edward Svensson,edward.svensson65@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR066,COMP004,George Kowalski,george.kowalski66@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR067,COMP007,William Mercer,william.mercer67@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR068,COMP008,Diana Fletcher,diana.fletcher68@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR069,COMP002,Diana Sinclair,diana.sinclair69@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR070,COMP006,George Patel,george.patel70@supplychain-corp.com,Procurement Manager,Global Procurement
+USR071,COMP004,Isaac Lindqvist,isaac.lindqvist71@supplychain-corp.com,Procurement Manager,Global Procurement
+USR072,COMP007,Laura Schneider,laura.schneider72@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR073,COMP004,Ethan Lindqvist,ethan.lindqvist73@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR074,COMP002,Diana Barrett,diana.barrett74@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR075,COMP001,Fiona Kapur,fiona.kapur75@supplychain-corp.com,Procurement Manager,Global Procurement
+USR076,COMP003,Arthur Russo,arthur.russo76@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR077,COMP004,Zoe Boucher,zoe.boucher77@supplychain-corp.com,Admin,Executive Office
+USR078,COMP003,Yusuf Vance,yusuf.vance78@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR079,COMP005,Deborah Gallagher,deborah.gallagher79@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR080,COMP009,Freya Montgomery,freya.montgomery80@supplychain-corp.com,Procurement Manager,Global Procurement
+USR081,COMP005,Nora Sterling,nora.sterling81@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR082,COMP009,Diana Navarro,diana.navarro82@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR083,COMP001,Diana Hawthorne,diana.hawthorne83@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR084,COMP009,Helena Dubois,helena.dubois84@supplychain-corp.com,Admin,Executive Office
+USR085,COMP009,Fiona MacLeod,fiona.macleod85@supplychain-corp.com,Procurement Manager,Global Procurement
+USR086,COMP002,Mitchell Chen,mitchell.chen86@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR087,COMP004,Zoe Kowalski,zoe.kowalski87@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR088,COMP004,Lorena Zimmerman,lorena.zimmerman88@supplychain-corp.com,Admin,Executive Office
+USR089,COMP010,Fiona Mercer,fiona.mercer89@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR090,COMP010,Karl Takahashi,karl.takahashi90@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR091,COMP005,Nora Fletcher,nora.fletcher91@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR092,COMP006,Penelope Schneider,penelope.schneider92@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR093,COMP003,Teresa Lindqvist,teresa.lindqvist93@supplychain-corp.com,Warehouse Manager,Inventory & Warehousing
+USR094,COMP002,Alexander Lindqvist,alexander.lindqvist94@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR095,COMP010,George Chen,george.chen95@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment
+USR096,COMP004,Gavin Schneider,gavin.schneider96@supplychain-corp.com,Procurement Manager,Global Procurement
+USR097,COMP006,Ethan Boucher,ethan.boucher97@supplychain-corp.com,Procurement Manager,Global Procurement
+USR098,COMP006,Samuel Dubois,samuel.dubois98@supplychain-corp.com,Production Manager,Manufacturing Operations
+USR099,COMP009,Teresa Zimmerman,teresa.zimmerman99@supplychain-corp.com,Operations Manager,Supply Chain Planning
+USR100,COMP009,Alexander Fletcher,alexander.fletcher100@supplychain-corp.com,Logistics Manager,Transportation & Fulfillment

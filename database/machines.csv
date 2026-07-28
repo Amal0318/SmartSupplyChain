@@ -1,0 +1,121 @@
+machine_id,warehouse_id,machine_name,machine_type,status,last_maintenance
+MACH001,WH013,Automated Guided Vehicle System #001,Automated Guided Vehicle System,Running,2026-04-17
+MACH002,WH010,Injection Molding Press #002,Injection Molding Press,Running,2026-01-28
+MACH003,WH013,Laser Cutter System #003,Laser Cutter System,Idle,2026-06-06
+MACH004,WH017,3D Metal Printer #004,3D Metal Printer,Running,2026-05-07
+MACH005,WH021,CNC Milling Center #005,CNC Milling Center,Maintenance,2026-06-29
+MACH006,WH017,3D Metal Printer #006,3D Metal Printer,Idle,2026-02-27
+MACH007,WH020,SMD Surface Mount Line #007,SMD Surface Mount Line,Running,2026-05-25
+MACH008,WH017,CNC Milling Center #008,CNC Milling Center,Offline,2026-04-22
+MACH009,WH014,SMD Surface Mount Line #009,SMD Surface Mount Line,Running,2026-03-09
+MACH010,WH017,SMD Surface Mount Line #010,SMD Surface Mount Line,Offline,2026-01-09
+MACH011,WH008,Laser Cutter System #011,Laser Cutter System,Running,2026-04-20
+MACH012,WH023,3D Metal Printer #012,3D Metal Printer,Running,2026-03-06
+MACH013,WH002,CNC Milling Center #013,CNC Milling Center,Running,2026-04-05
+MACH014,WH007,Automated Guided Vehicle System #014,Automated Guided Vehicle System,Running,2026-06-15
+MACH015,WH014,3D Metal Printer #015,3D Metal Printer,Running,2026-02-17
+MACH016,WH020,Automated Pick & Place #016,Automated Pick & Place,Running,2026-07-17
+MACH017,WH016,Automated Guided Vehicle System #017,Automated Guided Vehicle System,Running,2026-07-03
+MACH018,WH005,Laser Cutter System #018,Laser Cutter System,Running,2026-03-21
+MACH019,WH005,SMD Surface Mount Line #019,SMD Surface Mount Line,Running,2026-03-01
+MACH020,WH014,CNC Milling Center #020,CNC Milling Center,Maintenance,2026-05-22
+MACH021,WH014,CNC Milling Center #021,CNC Milling Center,Idle,2026-05-11
+MACH022,WH016,3D Metal Printer #022,3D Metal Printer,Running,2026-05-07
+MACH023,WH018,3D Metal Printer #023,3D Metal Printer,Running,2026-04-06
+MACH024,WH019,Laser Cutter System #024,Laser Cutter System,Idle,2026-03-16
+MACH025,WH014,Injection Molding Press #025,Injection Molding Press,Offline,2026-02-14
+MACH026,WH017,SMD Surface Mount Line #026,SMD Surface Mount Line,Offline,2026-03-31
+MACH027,WH016,Laser Cutter System #027,Laser Cutter System,Idle,2026-04-20
+MACH028,WH005,CNC Milling Center #028,CNC Milling Center,Offline,2026-04-15
+MACH029,WH011,Automated Pick & Place #029,Automated Pick & Place,Running,2026-03-26
+MACH030,WH023,Automated Guided Vehicle System #030,Automated Guided Vehicle System,Running,2026-02-09
+MACH031,WH017,CNC Milling Center #031,CNC Milling Center,Idle,2026-01-21
+MACH032,WH016,Automated Guided Vehicle System #032,Automated Guided Vehicle System,Running,2026-04-10
+MACH033,WH013,Automated Guided Vehicle System #033,Automated Guided Vehicle System,Running,2026-07-01
+MACH034,WH004,SMD Surface Mount Line #034,SMD Surface Mount Line,Running,2026-06-11
+MACH035,WH007,CNC Milling Center #035,CNC Milling Center,Running,2026-04-23
+MACH036,WH024,SMD Surface Mount Line #036,SMD Surface Mount Line,Running,2026-03-29
+MACH037,WH015,3D Metal Printer #037,3D Metal Printer,Running,2026-04-09
+MACH038,WH013,CNC Milling Center #038,CNC Milling Center,Idle,2026-07-12
+MACH039,WH001,Automated Pick & Place #039,Automated Pick & Place,Running,2026-07-17
+MACH040,WH025,Robotic Arm Cell #040,Robotic Arm Cell,Running,2026-02-05
+MACH041,WH025,Automated Guided Vehicle System #041,Automated Guided Vehicle System,Idle,2026-01-19
+MACH042,WH005,SMD Surface Mount Line #042,SMD Surface Mount Line,Running,2026-03-29
+MACH043,WH016,Automated Pick & Place #043,Automated Pick & Place,Maintenance,2026-02-03
+MACH044,WH008,Laser Cutter System #044,Laser Cutter System,Offline,2026-01-13
+MACH045,WH006,Robotic Arm Cell #045,Robotic Arm Cell,Running,2026-06-06
+MACH046,WH002,Automated Guided Vehicle System #046,Automated Guided Vehicle System,Running,2026-04-20
+MACH047,WH020,3D Metal Printer #047,3D Metal Printer,Running,2026-05-28
+MACH048,WH010,Laser Cutter System #048,Laser Cutter System,Maintenance,2026-06-18
+MACH049,WH015,Laser Cutter System #049,Laser Cutter System,Maintenance,2026-02-11
+MACH050,WH022,CNC Milling Center #050,CNC Milling Center,Maintenance,2026-01-10
+MACH051,WH007,Robotic Arm Cell #051,Robotic Arm Cell,Running,2026-02-14
+MACH052,WH016,Injection Molding Press #052,Injection Molding Press,Running,2026-07-13
+MACH053,WH022,Automated Pick & Place #053,Automated Pick & Place,Running,2026-07-09
+MACH054,WH004,Automated Guided Vehicle System #054,Automated Guided Vehicle System,Idle,2026-05-03
+MACH055,WH023,3D Metal Printer #055,3D Metal Printer,Running,2026-01-08
+MACH056,WH017,Automated Guided Vehicle System #056,Automated Guided Vehicle System,Running,2026-05-28
+MACH057,WH025,Laser Cutter System #057,Laser Cutter System,Running,2026-03-05
+MACH058,WH018,CNC Milling Center #058,CNC Milling Center,Running,2026-02-20
+MACH059,WH019,Automated Pick & Place #059,Automated Pick & Place,Maintenance,2026-05-20
+MACH060,WH004,3D Metal Printer #060,3D Metal Printer,Running,2026-04-01
+MACH061,WH022,Automated Pick & Place #061,Automated Pick & Place,Running,2026-05-12
+MACH062,WH014,CNC Milling Center #062,CNC Milling Center,Running,2026-01-08
+MACH063,WH021,CNC Milling Center #063,CNC Milling Center,Running,2026-01-25
+MACH064,WH006,3D Metal Printer #064,3D Metal Printer,Maintenance,2026-06-22
+MACH065,WH020,Robotic Arm Cell #065,Robotic Arm Cell,Offline,2026-07-08
+MACH066,WH014,3D Metal Printer #066,3D Metal Printer,Running,2026-01-20
+MACH067,WH008,3D Metal Printer #067,3D Metal Printer,Offline,2026-01-10
+MACH068,WH004,Robotic Arm Cell #068,Robotic Arm Cell,Running,2026-06-30
+MACH069,WH015,Injection Molding Press #069,Injection Molding Press,Maintenance,2026-03-31
+MACH070,WH006,3D Metal Printer #070,3D Metal Printer,Running,2026-04-05
+MACH071,WH023,Robotic Arm Cell #071,Robotic Arm Cell,Running,2026-07-07
+MACH072,WH023,Robotic Arm Cell #072,Robotic Arm Cell,Running,2026-06-18
+MACH073,WH023,Injection Molding Press #073,Injection Molding Press,Idle,2026-06-28
+MACH074,WH018,Injection Molding Press #074,Injection Molding Press,Running,2026-06-07
+MACH075,WH022,3D Metal Printer #075,3D Metal Printer,Offline,2026-04-29
+MACH076,WH018,Laser Cutter System #076,Laser Cutter System,Running,2026-07-13
+MACH077,WH013,3D Metal Printer #077,3D Metal Printer,Running,2026-06-24
+MACH078,WH024,CNC Milling Center #078,CNC Milling Center,Running,2026-05-21
+MACH079,WH010,3D Metal Printer #079,3D Metal Printer,Running,2026-03-28
+MACH080,WH023,Automated Guided Vehicle System #080,Automated Guided Vehicle System,Running,2026-07-12
+MACH081,WH025,Injection Molding Press #081,Injection Molding Press,Running,2026-04-09
+MACH082,WH021,Robotic Arm Cell #082,Robotic Arm Cell,Idle,2026-05-11
+MACH083,WH019,Robotic Arm Cell #083,Robotic Arm Cell,Maintenance,2026-05-03
+MACH084,WH003,CNC Milling Center #084,CNC Milling Center,Maintenance,2026-06-15
+MACH085,WH006,CNC Milling Center #085,CNC Milling Center,Running,2026-05-17
+MACH086,WH014,Laser Cutter System #086,Laser Cutter System,Running,2026-02-01
+MACH087,WH018,Laser Cutter System #087,Laser Cutter System,Running,2026-05-01
+MACH088,WH003,3D Metal Printer #088,3D Metal Printer,Running,2026-02-21
+MACH089,WH017,Automated Guided Vehicle System #089,Automated Guided Vehicle System,Running,2026-05-17
+MACH090,WH016,Automated Guided Vehicle System #090,Automated Guided Vehicle System,Idle,2026-05-23
+MACH091,WH006,Laser Cutter System #091,Laser Cutter System,Running,2026-05-20
+MACH092,WH015,Robotic Arm Cell #092,Robotic Arm Cell,Running,2026-05-17
+MACH093,WH012,SMD Surface Mount Line #093,SMD Surface Mount Line,Running,2026-02-27
+MACH094,WH003,Automated Pick & Place #094,Automated Pick & Place,Running,2026-06-24
+MACH095,WH016,Injection Molding Press #095,Injection Molding Press,Running,2026-02-02
+MACH096,WH018,Robotic Arm Cell #096,Robotic Arm Cell,Running,2026-01-01
+MACH097,WH009,Injection Molding Press #097,Injection Molding Press,Offline,2026-06-13
+MACH098,WH004,Automated Pick & Place #098,Automated Pick & Place,Running,2026-01-27
+MACH099,WH023,SMD Surface Mount Line #099,SMD Surface Mount Line,Idle,2026-06-23
+MACH100,WH013,Injection Molding Press #100,Injection Molding Press,Running,2026-06-29
+MACH101,WH010,SMD Surface Mount Line #101,SMD Surface Mount Line,Running,2026-02-11
+MACH102,WH018,SMD Surface Mount Line #102,SMD Surface Mount Line,Idle,2026-05-25
+MACH103,WH003,Injection Molding Press #103,Injection Molding Press,Idle,2026-05-09
+MACH104,WH020,Robotic Arm Cell #104,Robotic Arm Cell,Idle,2026-06-09
+MACH105,WH004,Robotic Arm Cell #105,Robotic Arm Cell,Maintenance,2026-06-29
+MACH106,WH011,3D Metal Printer #106,3D Metal Printer,Running,2026-03-09
+MACH107,WH017,Injection Molding Press #107,Injection Molding Press,Running,2026-01-14
+MACH108,WH023,Automated Guided Vehicle System #108,Automated Guided Vehicle System,Running,2026-03-17
+MACH109,WH003,Automated Guided Vehicle System #109,Automated Guided Vehicle System,Offline,2026-01-30
+MACH110,WH005,Injection Molding Press #110,Injection Molding Press,Running,2026-05-21
+MACH111,WH020,Robotic Arm Cell #111,Robotic Arm Cell,Offline,2026-07-01
+MACH112,WH020,3D Metal Printer #112,3D Metal Printer,Running,2026-05-16
+MACH113,WH018,3D Metal Printer #113,3D Metal Printer,Running,2026-06-05
+MACH114,WH016,Automated Pick & Place #114,Automated Pick & Place,Idle,2026-02-20
+MACH115,WH016,Automated Pick & Place #115,Automated Pick & Place,Running,2026-06-13
+MACH116,WH023,Injection Molding Press #116,Injection Molding Press,Running,2026-04-30
+MACH117,WH011,Automated Pick & Place #117,Automated Pick & Place,Running,2026-07-05
+MACH118,WH012,Automated Guided Vehicle System #118,Automated Guided Vehicle System,Running,2026-04-30
+MACH119,WH004,CNC Milling Center #119,CNC Milling Center,Idle,2026-06-26
+MACH120,WH017,3D Metal Printer #120,3D Metal Printer,Running,2026-03-29

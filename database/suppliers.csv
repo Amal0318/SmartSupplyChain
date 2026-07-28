@@ -1,0 +1,81 @@
+supplier_id,company_id,name,country,city,reliability_score,risk_score,lead_time_days
+SUP001,COMP005,United Materials Group,Japan,Nagoya,0.57,0.69,29
+SUP002,COMP005,Elite Foundry Ltd,Japan,Tokyo,0.97,0.18,11
+SUP003,COMP001,Precision Fasteners Inc,China,Ningbo,0.86,0.13,7
+SUP004,COMP005,National Solutions Group,Mexico,Querétaro,0.93,0.08,7
+SUP005,COMP009,Advanced Foundry Ltd,Vietnam,Hai Phong,0.91,0.06,14
+SUP006,COMP001,Pacific Industrial Supply,United Kingdom,Birmingham,0.86,0.25,16
+SUP007,COMP010,International Industrial Supply,Germany,Dortmund,0.96,0.27,3
+SUP008,COMP003,TransGlobal Systems Supply,United Kingdom,Birmingham,0.96,0.12,6
+SUP009,COMP007,Advanced Solutions Group,Japan,Osaka,0.98,0.14,10
+SUP010,COMP004,Global Fasteners Inc,Japan,Tokyo,0.89,0.07,11
+SUP011,COMP006,Metro Systems Supply,United Kingdom,Birmingham,0.93,0.28,6
+SUP012,COMP005,National Electronics Supply,Japan,Nagoya,0.67,0.62,31
+SUP013,COMP007,Metro Components Corp,China,Suzhou,0.88,0.06,16
+SUP014,COMP001,Metro Metals & Alloys,United Kingdom,Birmingham,0.95,0.22,14
+SUP015,COMP007,TransGlobal Electronics Supply,Taiwan,Taipei,0.87,0.28,19
+SUP016,COMP005,Euro Foundry Ltd,China,Suzhou,0.93,0.1,15
+SUP017,COMP003,Summit Systems Supply,Mexico,Querétaro,0.89,0.1,13
+SUP018,COMP008,AsiaTech Solutions Group,United Kingdom,Birmingham,0.92,0.28,8
+SUP019,COMP002,Summit Metals & Alloys,United Kingdom,Birmingham,0.9,0.25,10
+SUP020,COMP005,Prime Industrial Supply,Germany,Munich,0.6,0.67,45
+SUP021,COMP002,AsiaTech Systems Supply,India,Bengaluru,0.95,0.15,15
+SUP022,COMP004,International Fasteners Inc,Canada,Hamilton,0.7,0.77,24
+SUP023,COMP007,Prime Materials Group,Canada,Hamilton,0.86,0.11,6
+SUP024,COMP008,International Solutions Group,United Kingdom,Birmingham,0.93,0.13,17
+SUP025,COMP010,AsiaTech Materials Group,South Korea,Seoul,0.96,0.26,11
+SUP026,COMP009,Nordic Fasteners Inc,Japan,Osaka,0.86,0.12,11
+SUP027,COMP006,TransGlobal Metals & Alloys,United States,Dallas,0.6,0.74,43
+SUP028,COMP004,Precision Systems Supply,China,Ningbo,0.92,0.07,16
+SUP029,COMP007,Global Electronics Supply,China,Suzhou,0.98,0.12,15
+SUP030,COMP007,Prime Solutions Group,Japan,Osaka,0.92,0.15,15
+SUP031,COMP003,Global Systems Supply,Vietnam,Hai Phong,0.85,0.21,7
+SUP032,COMP008,National Logistics & Parts,Japan,Nagoya,0.88,0.13,15
+SUP033,COMP005,Euro Technologies,United States,Dallas,0.95,0.06,14
+SUP034,COMP004,Advanced Logistics & Parts,Japan,Osaka,0.85,0.09,7
+SUP035,COMP008,United Electronics Supply,Japan,Tokyo,0.89,0.14,6
+SUP036,COMP003,Summit Components Corp,Vietnam,Hai Phong,0.61,0.74,33
+SUP037,COMP007,Elite Components Corp,Vietnam,Hai Phong,0.94,0.08,12
+SUP038,COMP010,Euro Fasteners Inc,China,Shenzhen,0.68,0.5,34
+SUP039,COMP008,United Systems Supply,China,Shenzhen,0.97,0.23,16
+SUP040,COMP003,Metro Fasteners Inc,Japan,Nagoya,0.98,0.24,17
+SUP041,COMP007,Apex Foundry Ltd,Japan,Osaka,0.86,0.27,10
+SUP042,COMP008,Atlantic Foundry Ltd,United States,Chicago,0.9,0.17,14
+SUP043,COMP005,TransGlobal Technologies,India,Pune,0.89,0.05,9
+SUP044,COMP002,Prime Systems Supply,South Korea,Seoul,0.88,0.17,18
+SUP045,COMP008,Global Components Corp,Taiwan,Hsinchu,0.95,0.13,14
+SUP046,COMP008,Metro Foundry Ltd,China,Ningbo,0.93,0.14,17
+SUP047,COMP005,Summit Technologies,Japan,Osaka,0.59,0.54,38
+SUP048,COMP003,Elite Industrial Supply,South Korea,Seoul,0.93,0.24,12
+SUP049,COMP002,Elite Technologies,Japan,Osaka,0.89,0.23,7
+SUP050,COMP005,Summit Materials Group,India,Bengaluru,0.92,0.27,12
+SUP051,COMP008,Nordic Solutions Group,Taiwan,Taipei,0.86,0.29,18
+SUP052,COMP002,Nordic Components Corp,Vietnam,Hai Phong,0.86,0.09,12
+SUP053,COMP002,Prime Components Corp,Mexico,Querétaro,0.93,0.25,10
+SUP054,COMP009,Atlantic Solutions Group,South Korea,Incheon,0.93,0.16,4
+SUP055,COMP010,United Industrial Supply,India,Bengaluru,0.94,0.09,8
+SUP056,COMP009,Precision Materials Group,United States,Chicago,0.95,0.17,4
+SUP057,COMP004,AsiaTech Components Corp,United Kingdom,Birmingham,0.89,0.25,9
+SUP058,COMP007,United Metals & Alloys,Japan,Osaka,0.98,0.26,5
+SUP059,COMP001,National Technologies,India,Pune,0.93,0.12,6
+SUP060,COMP008,Apex Metals & Alloys,Mexico,Querétaro,0.86,0.06,16
+SUP061,COMP006,Apex Logistics & Parts,United States,Dallas,0.94,0.27,3
+SUP062,COMP005,Advanced Materials Group,South Korea,Seoul,0.91,0.12,16
+SUP063,COMP008,Precision Solutions Group,China,Shenzhen,0.89,0.08,8
+SUP064,COMP006,Euro Solutions Group,Taiwan,Hsinchu,0.91,0.24,4
+SUP065,COMP008,Precision Foundry Ltd,Japan,Nagoya,0.99,0.15,19
+SUP066,COMP001,Advanced Industrial Supply,Mexico,Monterrey,0.96,0.21,4
+SUP067,COMP004,International Technologies,South Korea,Incheon,0.92,0.06,10
+SUP068,COMP003,Global Metals & Alloys,China,Ningbo,0.75,0.82,35
+SUP069,COMP002,Apex Systems Supply,South Korea,Seoul,0.88,0.19,15
+SUP070,COMP004,Metro Materials Group,United States,Dallas,0.96,0.15,19
+SUP071,COMP005,Global Technologies,Taiwan,Hsinchu,0.93,0.21,7
+SUP072,COMP008,Nordic Foundry Ltd,Taiwan,Taipei,0.93,0.16,13
+SUP073,COMP004,Prime Electronics Supply,China,Suzhou,0.96,0.06,18
+SUP074,COMP007,Atlantic Fasteners Inc,India,Bengaluru,0.92,0.06,19
+SUP075,COMP010,TransGlobal Components Corp,South Korea,Incheon,0.73,0.51,25
+SUP076,COMP007,International Components Corp,South Korea,Seoul,0.89,0.21,15
+SUP077,COMP002,TransGlobal Fasteners Inc,Mexico,Querétaro,0.89,0.23,18
+SUP078,COMP009,Advanced Electronics Supply,United States,Dallas,0.95,0.12,10
+SUP079,COMP002,Euro Components Corp,India,Bengaluru,0.86,0.09,12
+SUP080,COMP001,Advanced Technologies,China,Shenzhen,0.87,0.18,8

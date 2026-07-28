@@ -101,11 +101,13 @@ SmartySupplyChain/
 │   │
 │   ├── Architecture/
 │   │   ├── Complete_System_Architecture.md    # Complete 12-Panel Architecture Blueprint
+│   │   ├── Multi_Agent_Control_Tower.md       # 7-Agent Architectural Specification
+│   │   ├── Fault_Tolerant_Architecture.md     # Circuit Breakers, Heartbeats & Resilience Specs
+│   │   ├── Technology_Evaluation.md           # 9-Point Technology Stack Evaluation & Justification
 │   │   ├── Business_Architecture.md           # Enterprise capability map
 │   │   ├── Application_Architecture.md        # Modular tier & Multi-Agent layer architecture
 │   │   ├── Data_Architecture.md               # Storage & database strategy
 │   │   ├── Integration_Architecture.md        # API & scanner integrations
-│   │   ├── Multi_Agent_Control_Tower.md       # Multi-Agent & Fault Tolerance specs
 │   │   ├── Deployment_Architecture.md         # Nginx & container setup
 │   │   └── Security_Architecture.md           # JWT & audit trail specs
 │   │
@@ -131,8 +133,10 @@ SmartySupplyChain/
 │   ├── agents/
 │   │   ├── procurement_agent.py               # Procurement AI Agent module
 │   │   ├── inventory_agent.py                 # Inventory AI Agent module
+│   │   ├── warehouse_agent.py                 # Warehouse AI Agent module
 │   │   ├── production_agent.py                # Production AI Agent module
 │   │   ├── logistics_agent.py                 # Logistics AI Agent module
+│   │   ├── analytics_agent.py                 # Analytics AI Agent module
 │   │   └── manager_agent.py                   # Central Brain Manager Agent module
 │   │
 │   └── fault_tolerance/

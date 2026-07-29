@@ -63,7 +63,7 @@ The diagram below shows the standard order-to-delivery business process,
 with the platform's AI agents marked at each point where they replace a 
 manual step.
 
-![Business Process Flow with AI Agents](assets/business-process-flow.png)
+![Business Process Flow with AI Agents](assets/business_process_flow_with_ai_agents.png)
 
 ---
 

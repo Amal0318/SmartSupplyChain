@@ -58,6 +58,12 @@ The proposed platform provides a fault-tolerant Multi-Agent AI system capable of
 - Routing information to appropriate AI agents
 - Generating operational insights
 - Producing executive recommendations
+- 
+The diagram below shows the standard order-to-delivery business process, 
+with the platform's AI agents marked at each point where they replace a 
+manual step.
+
+![Business Process Flow with AI Agents](assets/business-process-flow.png)
 
 ---
 

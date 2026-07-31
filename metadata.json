@@ -1,0 +1,6 @@
+{
+  "name": "AI Supply Chain Control Tower",
+  "description": "Enterprise AI multi-agent supply chain command center featuring procurement, inventory, production, logistics, and master executive dashboards with autonomous data understanding, risk detection, and fault tolerance monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,63 +1,99 @@
-# Production AI Agent
+# Smart Supply Chain Control Tower — Production AI Agent
 
-> **Smart Supply Chain Monitoring & Analytics System**  
-> Focus Modules: **Warehouse Analytics** · **Production Analytics**
-
-The **Production AI Agent** is an enterprise-grade AI solution designed to help Production Managers and Higher-Level Managers make data-driven decisions by automatically processing Procurement and Inventory CSV data, detecting operational risks, predicting shortages, and generating executive briefs.
+An enterprise-grade, high-performance monitoring and predictive analytics system designed for supply chain managers, warehouse directors, and executive leadership. This repository implements the core **Production AI Agent** module, focusing on **Warehouse & Production Analytics**, dynamic risk detection, and automated executive reporting.
 
 ---
 
-## 🌟 Key Features
+## 🌟 Key Capabilities
 
-- **Enterprise Clean Architecture**: Layered FastAPI backend (Repository pattern, Dependency Injection, Pydantic v2).
-- **JWT & Role-Based Access Control (RBAC)**: Secure authentication with `admin`, `manager`, and `viewer` roles.
-- **CSV Ingestion Engine**: Multipart CSV file uploads with schema validation, path traversal prevention, and audit tracking.
-- **MongoDB Async Integration**: Motor async driver with automated index creation and audit TTL expiration.
-- **Modern React + TypeScript UI**: Built with TailwindCSS v3, glassmorphism dark mode aesthetic, Zustand state management, and Axios interceptors.
-- **Independent AI Agent Pipeline**: Modular AI agent design ready for GPT integration or Mock offline mode.
+### 🛡️ Clean Enterprise Architecture
+- **FastAPI (Python 3.11/3.14)**: Asynchronous REST backend leveraging Dependency Injection, the Repository Pattern, and Pydantic v2 schemas.
+- **Vite + React (TypeScript)**: Highly modular, dark-themed control tower interface using glassmorphism aesthetics, Zustand state management, and Axios interceptors.
+
+### 📊 Ingestion & Validation Engine
+- **Robust CSV Parser**: Secure multipart CSV file upload for *Procurement*, *Inventory*, and *Production Orders* data.
+- **Data Sanitization**: Built-in path-traversal mitigation, MIME-type checks, file size constraints, and full audit logs.
+
+### 🧠 Autonomous AI Agent Pipeline
+- **Cascading Risk Detection**: Evaluates domain lead times, identifies warehouse capacity bottlenecks, and traces risk propagation from raw procurement to final logistics.
+- **Mitigation Recommendations**: Generates contextual, actionable recommendations for supply chain disruptions.
+- **Mock Service Mode**: Ready out-of-the-box with fully featured mock analysis engines for offline and development environments.
+
+---
+
+## 🏛️ Project Architecture
+
+```
+SmartSupplyChain/
+├── backend/                       # Async REST Backend (FastAPI)
+│   ├── app/
+│   │   ├── api/                   # API Routers, Endpoints & Deps
+│   │   ├── core/                  # Configuration, Logging, Exceptions
+│   │   ├── db/                    # MongoDB Drivers & Repositories
+│   │   ├── models/                # Pydantic Domain Models
+│   │   ├── schemas/               # API Request/Response Schemas
+│   │   ├── services/              # Business Logic & Auth Services
+│   │   └── main.py                # FastAPI Entrypoint
+│   ├── tests/                     # Pytest Unit & Integration Suite
+│   ├── Dockerfile                 # Production Deployment Configuration
+│   └── requirements.txt           # Python Dependencies
+├── frontend/                      # Modern Dashboard UI (Vite + React + TS)
+│   ├── src/
+│   │   ├── api/                   # Axios API Clients
+│   │   ├── store/                 # Zustand Auth State
+│   │   ├── types/                 # Shared TypeScript Definitions
+│   │   └── smart_ui/              # Modular UI Component System
+│   │       ├── components/        # Analytics, Dashboards & Upload Components
+│   │       ├── data/              # Simulated Domain Datasets
+│   │       ├── utils/             # Normalizers & PDF export handlers
+│   │       └── MainDashboard.tsx  # Parent SPA Dashboard Engine
+│   └── Dockerfile                 # Frontend Build & Nginx Runner
+├── database/                      # Persistent Database Mounts & Metadata
+├── diagrams/                      # System Architecture & Workflow Visuals
+├── docs/                          # API & Business Requirement Documents
+├── sample_data/                   # Standard Seed CSV Templates
+├── scripts/                       # Database Setup & Seeding Scripts
+└── docker-compose.yml             # Orchestration for MongoDB & Backend Services
+```
 
 ---
 
 ## 🚀 Quick Start (Docker Compose)
 
-The easiest way to run the full application (MongoDB + FastAPI Backend) is using Docker Compose.
+Launch the complete application stack (MongoDB and backend services) with a single command:
 
 ```bash
-# Clone and enter project directory
-cd "d:/production ai agent"
-
-# Start MongoDB and FastAPI Backend
+# Start the production stack
 docker-compose up --build
 ```
 
-- **Backend API**: `http://localhost:8000/api/v1`
-- **Interactive Swagger Docs**: `http://localhost:8000/api/v1/docs`
+- **API Base URL**: `http://localhost:8000/api/v1`
+- **Swagger Documentation**: `http://localhost:8000/api/v1/docs`
 
 ---
 
 ## 💻 Local Development Setup
 
-### 1. Backend Setup (FastAPI + Python 3.11)
+### 1. Backend Setup
 
 ```bash
 cd backend
 
 # Create virtual environment
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Copy environment template
+# Configure environment variables
 cp .env.example .env
 
-# Run FastAPI Dev Server
+# Run FastAPI Development Server
 uvicorn app.main:app --reload --port 8000
 ```
 
-### 2. Frontend Setup (React 18 + Vite + TailwindCSS)
+### 2. Frontend Setup
 
 ```bash
 cd frontend
@@ -65,67 +101,41 @@ cd frontend
 # Install dependencies
 npm install
 
-# Start Vite Dev Server
+# Start Vite Development Server
 npm run dev
 ```
 
-- **Frontend Application**: `http://localhost:5173`
+- **Frontend Interface**: `http://localhost:5173`
 
 ---
 
-## 🔐 Default Test Credentials
+## 🔐 Default Administrator Credentials
 
-Upon first startup, the system automatically seeds an initial Administrator account if no users exist:
+On first startup, the database is seeded automatically with a default administrative account:
 
-| Role | Email | Password |
-|---|---|---|
-| **Administrator** | `admin@productionai.com` | `Admin@123!` |
+| Attribute | Value |
+|---|---|
+| **Role** | System Administrator |
+| **Username / Email** | `admin@productionai.com` |
+| **Password** | `Admin@123!` |
 
 ---
 
-## 📁 Sample CSV Files
+## 📁 Sample Datasets
 
-Sample data files are provided in `sample_data/` for immediate testing:
+Located under `sample_data/`, these CSV files can be imported directly into the dashboard upload module:
 
-- `sample_data/procurement_sample.csv`
-- `sample_data/inventory_sample.csv`
-- `sample_data/production_orders_sample.csv`
+- `procurement_sample.csv`: Sample supplier lead times, categories, and unit costs.
+- `inventory_sample.csv`: Sample SKU lists, locations, stock levels, and reorder alerts.
+- `production_orders_sample.csv`: Factory assembly outputs, run targets, and downtime tracking.
 
 ---
 
 ## 🧪 Running Unit Tests
 
+Verify backend logic and endpoint integrations by running the unit test suite:
+
 ```bash
 cd backend
-pytest tests/ -v
-```
-
----
-
-## 🏛️ Project Structure
-
-```
-production-ai-agent/
-├── backend/
-│   ├── app/
-│   │   ├── api/          # REST Endpoints & Dependencies
-│   │   ├── core/         # Config, Security, Logging, Exceptions
-│   │   ├── db/           # MongoDB Connection & Repositories
-│   │   ├── models/       # Pydantic Domain Models
-│   │   ├── schemas/      # API Request/Response Schemas
-│   │   ├── services/     # Auth & Upload Business Services
-│   │   └── main.py       # FastAPI Entrypoint
-│   ├── tests/            # Pytest Unit & Integration Tests
-│   └── Dockerfile
-├── frontend/
-│   ├── src/
-│   │   ├── api/          # Axios API Clients
-│   │   ├── components/   # Shared & Feature UI Components
-│   │   ├── pages/        # Dashboard, Upload, Login Pages
-│   │   ├── store/        # Zustand Auth State
-│   │   └── types/        # TypeScript Definitions
-│   └── Dockerfile
-├── sample_data/          # Sample CSV Data Files
-├── docker-compose.yml
-└── README.md
+.venv\Scripts\python -m pytest
 ```

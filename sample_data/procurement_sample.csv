@@ -1,0 +1,9 @@
+po_number,material_id,material_name,supplier_name,quantity_ordered,quantity_received,unit_cost,expected_delivery,actual_delivery,status
+PO-2026-001,MAT-STEEL-01,Steel Sheet 2mm,Apex Metal Corp,500,500,45.50,2026-07-10,2026-07-09,complete
+PO-2026-002,MAT-ALUM-02,Aluminum Ingot 500g,Global Alloys Ltd,1200,800,28.00,2026-07-15,2026-07-18,partial
+PO-2026-003,MAT-COPPER-01,Copper Wire 1mm,ElectroSupply Inc,300,0,85.20,2026-07-25,,overdue
+PO-2026-004,MAT-PLASTIC-03,Polypropylene Granules,PolymerTech Co,2500,2500,12.75,2026-07-28,2026-07-27,complete
+PO-2026-005,MAT-BEARING-04,Ball Bearing 6204,Precision Components,1000,0,8.50,2026-08-05,,pending
+PO-2026-006,MAT-STEEL-01,Steel Sheet 2mm,Apex Metal Corp,800,0,46.00,2026-08-10,,pending
+PO-2026-007,MAT-BOLT-08,M8 Hex Bolt 50mm,Fastener Direct,5000,5000,0.45,2026-07-20,2026-07-19,complete
+PO-2026-008,MAT-CIRCUIT-02,PCB Control Board v2,MicroTech Labs,150,50,140.00,2026-07-22,2026-07-26,partial

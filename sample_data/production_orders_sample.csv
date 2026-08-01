@@ -1,0 +1,7 @@
+order_number,product_name,planned_qty,produced_qty,machine_id,operator_id,planned_start,planned_end,actual_start,actual_end,status
+PRD-2026-101,Control Panel Enclosure,200,200,MAC-CNC-01,OP-104,2026-07-01,2026-07-05,2026-07-01,2026-07-04,completed
+PRD-2026-102,Aluminum Heat Sink 100mm,500,450,MAC-PRESS-02,OP-108,2026-07-06,2026-07-12,2026-07-06,2026-07-15,delayed
+PRD-2026-103,Electric Motor Subassembly,150,80,MAC-ASY-01,OP-102,2026-07-10,2026-07-20,2026-07-12,,in_progress
+PRD-2026-104,Plastic Junction Box,1000,1000,MAC-INJ-03,OP-115,2026-07-15,2026-07-22,2026-07-15,2026-07-21,completed
+PRD-2026-105,Industrial Conveyor Roller,300,0,MAC-LATHE-01,OP-104,2026-07-25,2026-08-02,,,planned
+PRD-2026-106,Automated Controller Unit,100,25,MAC-ASY-02,OP-110,2026-07-20,2026-07-28,2026-07-22,,delayed

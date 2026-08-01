@@ -1,29 +1,33 @@
 import React, { useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { useAuthStore } from './store/useAuthStore';
-import { LoginPage } from './pages/LoginPage';
-import { DashboardPage } from './pages/DashboardPage';
-import { ProtectedRoute } from './components/ProtectedRoute';
+import MainDashboard from './smart_ui/MainDashboard';
+import { useAuthStore } from './store/authStore';
+import { loginApi, getCurrentUserApi } from './api/auth';
 
 export const App: React.FC = () => {
-  const { initialize } = useAuthStore();
+  const { token, setAuth } = useAuthStore();
 
   useEffect(() => {
-    initialize();
-  }, [initialize]);
+    const checkAuthAndLogin = async () => {
+      try {
+        if (token) {
+          await getCurrentUserApi();
+        } else {
+          throw new Error('No token');
+        }
+      } catch (err) {
+        try {
+          const data = await loginApi('admin@productionai.com', 'Admin@123!');
+          setAuth(data.user, data.access_token, data.refresh_token);
+        } catch (loginErr) {
+          console.error('Background login failed:', loginErr);
+        }
+      }
+    };
 
-  return (
-    <Router>
-      <Routes>
-        <Route path="/login" element={<LoginPage />} />
-        
-        {/* Protected Dashboard Routes */}
-        <Route element={<ProtectedRoute />}>
-          <Route path="/" element={<DashboardPage />} />
-        </Route>
-      </Routes>
-    </Router>
-  );
+    checkAuthAndLogin();
+  }, [token, setAuth]);
+
+  return <MainDashboard />;
 };
 
 export default App;

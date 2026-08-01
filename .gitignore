@@ -1,57 +1,35 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Cextensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual environments
+# Dependencies and packages
+node_modules/
+.venv/
 venv/
 env/
-ENV/
-.venv/
-
-# Node.js / Frontend
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
 dist/
-dist-ssr/
-*.local
+build/
 
-# Environment variables & secrets
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# Caches and runtime metadata
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+.db
+.ipynb_checkpoints/
 
-# IDEs & Editors
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# System and logs
+*.log
 .DS_Store
 Thumbs.db
+
+# Secrets and environment configurations
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.suo
+*.user
+*.workspace

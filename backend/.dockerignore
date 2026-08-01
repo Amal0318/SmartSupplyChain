@@ -1,0 +1,14 @@
+# Caches
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+**/venv/
+
+# Environment and secrets
+.env
+.env.example
+
+# Test and run data
+test_pdf.py
+uploads/*.csv
+tests/

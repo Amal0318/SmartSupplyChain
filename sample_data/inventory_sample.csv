@@ -1,0 +1,9 @@
+material_id,material_name,category,quantity_on_hand,unit,reorder_point,unit_cost,warehouse_location,last_updated
+MAT-STEEL-01,Steel Sheet 2mm,Raw Metals,450,Sheets,200,45.50,WH-A-12,2026-07-30
+MAT-ALUM-02,Aluminum Ingot 500g,Raw Metals,120,Ingots,300,28.00,WH-A-15,2026-07-30
+MAT-COPPER-01,Copper Wire 1mm,Electrical,45,Meters,100,85.20,WH-B-04,2026-07-30
+MAT-PLASTIC-03,Polypropylene Granules,Polymers,1800,Kg,500,12.75,WH-C-01,2026-07-30
+MAT-BEARING-04,Ball Bearing 6204,Hardware,85,Units,250,8.50,WH-B-09,2026-07-30
+MAT-BOLT-08,M8 Hex Bolt 50mm,Hardware,3400,Units,1000,0.45,WH-B-10,2026-07-30
+MAT-CIRCUIT-02,PCB Control Board v2,Electronics,22,Units,50,140.00,WH-SEC-01,2026-07-30
+MAT-LUBRICANT-01,Industrial Gear Oil 5L,Maintenance,60,Cans,40,32.00,WH-HAZ-02,2026-07-30

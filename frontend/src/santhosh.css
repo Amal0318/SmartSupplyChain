@@ -1,12 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer base {
-  body {
-    @apply bg-[#F5F5F7] text-zinc-900 antialiased;
-  }
-}
+@import "tailwindcss";
 
 .dot-grid {
   background-image: radial-gradient(rgba(0, 0, 0, 0.05) 1px, transparent 1px);
